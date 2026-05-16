@@ -1,0 +1,103 @@
+'use client'
+
+import { useRef } from 'react'
+import Link from 'next/link'
+import { useTranslations, useLocale } from 'next-intl'
+import { motion, useInView } from 'framer-motion'
+import PageHero from '@/components/shared/PageHero'
+
+type Article = { slug: string; title: string; excerpt: string; category: string; readTime: string }
+
+const articleDates = [
+  '2026-03-12', '2026-02-28', '2026-02-15',
+  '2026-01-30', '2026-01-18', '2025-12-22',
+  '2025-12-10', '2025-11-25',
+]
+
+function ArticleCard({ article, index, date }: { article: Article; index: number; date: string }) {
+  const ref = useRef<HTMLDivElement>(null)
+  const inView = useInView(ref, { once: true, margin: '-60px' })
+  const t = useTranslations('blogPage')
+  const locale = useLocale()
+  const isAr = locale === 'ar'
+  const font = { fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }
+
+  const formatted = new Date(date).toLocaleDateString(isAr ? 'ar-JO' : 'en-US', {
+    year: 'numeric', month: 'long', day: 'numeric',
+  })
+
+  return (
+    <motion.article
+      ref={ref}
+      initial={{ opacity: 0, y: 30 }}
+      animate={inView ? { opacity: 1, y: 0 } : {}}
+      transition={{ duration: 0.6, delay: (index % 4) * 0.08 }}
+      className="group relative border border-[var(--color-border)] rounded-sm p-7 flex flex-col gap-4 hover:border-[var(--color-gold-muted)] transition-all duration-300 hover:shadow-[0_4px_24px_rgba(201,169,97,0.06)]"
+      style={{ background: 'var(--color-surface)' }}
+    >
+      {/* Category */}
+      <div className="flex items-center justify-between gap-3">
+        <span
+          className="inline-block px-3 py-1 text-[10px] font-semibold tracking-widest uppercase text-[var(--color-gold-primary)] border border-[var(--color-gold-muted)] rounded-sm"
+          style={font}
+        >
+          {article.category}
+        </span>
+        <span className="text-[var(--color-text-muted)] text-xs" style={{ fontFamily: 'var(--font-inter)' }}>
+          {article.readTime} {t('minRead')}
+        </span>
+      </div>
+
+      {/* Title */}
+      <h2
+        className="text-[var(--color-text-primary)] font-semibold leading-snug group-hover:text-[var(--color-gold-primary)] transition-colors duration-300"
+        style={{ ...font, fontSize: isAr ? '17px' : '16px', lineHeight: 1.5 }}
+      >
+        {article.title}
+      </h2>
+
+      {/* Excerpt */}
+      <p className="text-[var(--color-text-secondary)] text-sm leading-relaxed line-clamp-2 flex-1" style={font}>
+        {article.excerpt}
+      </p>
+
+      {/* Footer */}
+      <div className="flex items-center justify-between pt-3 border-t border-[var(--color-border)]">
+        <span className="text-[var(--color-text-muted)] text-xs" style={{ fontFamily: 'var(--font-inter)' }}>
+          {formatted}
+        </span>
+        <Link
+          href={`/blog/${article.slug}`}
+          className="flex items-center gap-1.5 text-[var(--color-gold-primary)] text-xs font-semibold hover:gap-2.5 transition-all duration-300"
+          style={font}
+        >
+          {t('readMore')}
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className={isAr ? 'rotate-180' : ''}>
+            <path d="M5 12h14M12 5l7 7-7 7" />
+          </svg>
+        </Link>
+      </div>
+    </motion.article>
+  )
+}
+
+export default function BlogPageClient() {
+  const t = useTranslations('blogPage')
+  const articles = t.raw('articles') as Article[]
+
+  return (
+    <>
+      <PageHero label={t('heroLabel')} title={t('heroTitle')} subtitle={t('heroSub')} />
+
+      <section className="py-20">
+        <div className="container-brand px-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+            {articles.map((article, i) => (
+              <ArticleCard key={article.slug} article={article} index={i} date={articleDates[i]} />
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  )
+}

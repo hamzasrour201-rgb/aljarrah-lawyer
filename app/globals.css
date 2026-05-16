@@ -1,0 +1,294 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Brand CSS Variables ─────────────────────────────────────── */
+:root {
+  /* Background */
+  --color-bg-primary:     #0A0A0B;
+  --color-bg-secondary:   #131316;
+  --color-bg-elevated:    #1C1C20;
+
+  /* Gold palette */
+  --color-gold-primary:   #C9A961;
+  --color-gold-light:     #E8D4A2;
+  --color-gold-deep:      #8B7340;
+
+  /* Text */
+  --color-text-primary:   #F5F0E8;
+  --color-text-secondary: #A8A29E;
+  --color-text-tertiary:  #6B6862;
+
+  /* Borders */
+  --color-border:         rgba(201, 169, 97, 0.15);
+  --color-border-strong:  rgba(201, 169, 97, 0.3);
+
+  /* shadcn/ui overrides — dark mode only site */
+  --background:           #0A0A0B;
+  --foreground:           #F5F0E8;
+  --card:                 #131316;
+  --card-foreground:      #F5F0E8;
+  --popover:              #1C1C20;
+  --popover-foreground:   #F5F0E8;
+  --primary:              #C9A961;
+  --primary-foreground:   #0A0A0B;
+  --secondary:            #1C1C20;
+  --secondary-foreground: #F5F0E8;
+  --muted:                #1C1C20;
+  --muted-foreground:     #A8A29E;
+  --accent:               #1C1C20;
+  --accent-foreground:    #C9A961;
+  --destructive:          oklch(0.577 0.245 27.325);
+  --border:               rgba(201, 169, 97, 0.15);
+  --input:                rgba(201, 169, 97, 0.1);
+  --ring:                 rgba(201, 169, 97, 0.4);
+  --radius:               4px;
+}
+
+/* ─── Base Styles ─────────────────────────────────────────────── */
+@layer base {
+  * {
+    @apply border-border;
+    box-sizing: border-box;
+  }
+
+  html {
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    font-family: var(--font-plex-arabic), var(--font-inter), sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  /* Arabic direction */
+  [dir='rtl'] body,
+  [lang='ar'] body {
+    font-family: var(--font-plex-arabic), sans-serif;
+  }
+
+  [dir='ltr'] body,
+  [lang='en'] body {
+    font-family: var(--font-inter), sans-serif;
+  }
+
+  /* Heading styles */
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--color-text-primary);
+    line-height: 1.15;
+  }
+
+  [lang='ar'] h1,
+  [lang='ar'] h2,
+  [dir='rtl'] h1,
+  [dir='rtl'] h2 {
+    font-family: var(--font-amiri), serif;
+  }
+
+  [lang='ar'] h3,
+  [lang='ar'] h4,
+  [dir='rtl'] h3,
+  [dir='rtl'] h4 {
+    font-family: var(--font-plex-arabic), sans-serif;
+  }
+
+  [lang='en'] h1,
+  [lang='en'] h2,
+  [dir='ltr'] h1,
+  [dir='ltr'] h2 {
+    font-family: var(--font-cormorant), serif;
+  }
+
+  [lang='en'] h3,
+  [lang='en'] h4,
+  [dir='ltr'] h3,
+  [dir='ltr'] h4 {
+    font-family: var(--font-inter), sans-serif;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  /* Selection color */
+  ::selection {
+    background-color: rgba(201, 169, 97, 0.25);
+    color: var(--color-text-primary);
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-bg-primary);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-gold-deep);
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-gold-primary);
+  }
+}
+
+/* ─── Utility Classes ─────────────────────────────────────────── */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Gold gradient text */
+  .text-gold-gradient {
+    background: linear-gradient(135deg, var(--color-gold-light), var(--color-gold-primary), var(--color-gold-deep));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Gold divider */
+  .divider-gold {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-gold-primary), transparent);
+    opacity: 0.3;
+  }
+
+  /* Container */
+  .container-brand {
+    width: 100%;
+    max-width: 1440px;
+    margin-inline: auto;
+    padding-inline: clamp(24px, 5vw, 96px);
+  }
+
+  /* Section padding */
+  .section-padding {
+    padding-block: clamp(64px, 8vw, 120px);
+  }
+
+  /* Gold border frame corners */
+  .frame-corners {
+    position: relative;
+  }
+  .frame-corners::before,
+  .frame-corners::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-color: var(--color-gold-primary);
+    border-style: solid;
+    opacity: 0.6;
+  }
+  .frame-corners::before {
+    top: -4px;
+    inset-inline-start: -4px;
+    border-width: 1px 0 0 1px;
+  }
+  .frame-corners::after {
+    bottom: -4px;
+    inset-inline-end: -4px;
+    border-width: 0 1px 1px 0;
+  }
+
+  /* Glass morphism */
+  .glass-dark {
+    background: rgba(10, 10, 11, 0.85);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+  }
+
+  /* Gold offset frame (for photos) */
+  .photo-frame {
+    position: relative;
+  }
+  .photo-frame::after {
+    content: '';
+    position: absolute;
+    inset: 8px -8px -8px 8px;
+    border: 1px solid rgba(201, 169, 97, 0.3);
+    border-radius: var(--radius);
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  /* Arabic quote marks */
+  .quote-mark {
+    font-family: var(--font-amiri), serif;
+    font-size: 80px;
+    line-height: 0.5;
+    color: var(--color-gold-primary);
+    opacity: 0.6;
+  }
+
+  /* Gold bullet */
+  .gold-bullet::before {
+    content: '•';
+    color: var(--color-gold-primary);
+    margin-inline-end: 8px;
+  }
+
+  /* Shimmer button effect */
+  .btn-shimmer {
+    position: relative;
+    overflow: hidden;
+  }
+  .btn-shimmer::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.1) 50%, transparent 100%);
+    transform: translateX(-100%);
+    transition: transform 0.6s ease;
+  }
+  .btn-shimmer:hover::after {
+    transform: translateX(100%);
+  }
+}
+
+/* ─── Custom Cursor ───────────────────────────────────────────── */
+@media (pointer: fine) {
+  * { cursor: none !important; }
+}
+
+/* ─── Animations ──────────────────────────────────────────────── */
+@keyframes float-scales {
+  0%, 100% { transform: rotate(-3deg) translateY(0); }
+  50%      { transform: rotate(3deg) translateY(-8px); }
+}
+
+@keyframes scroll-dot {
+  0%, 100% { transform: translateY(0); opacity: 1; }
+  50%      { transform: translateY(16px); opacity: 0.3; }
+}
+
+@keyframes border-draw {
+  from { stroke-dashoffset: 400; }
+  to   { stroke-dashoffset: 0; }
+}
+
+/* ─── Lenis Smooth Scroll ─────────────────────────────────────── */
+html.lenis {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}

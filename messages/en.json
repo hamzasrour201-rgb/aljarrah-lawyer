@@ -1,0 +1,514 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "blog": "Articles",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "bookConsultation": "Book Consultation"
+  },
+  "hero": {
+    "preHeadline": "Experience. Trust. Justice.",
+    "name1": "Ahmad Aljarrah",
+    "name2": "Sharia Lawyer",
+    "subHeadline": "Specialist in Personal Status & Islamic Family Law | Irbid, Jordan",
+    "ctaPrimary": "Book Your Consultation",
+    "ctaSecondary": "Explore Our Services"
+  },
+  "stats": {
+    "experience": "Years of Experience",
+    "cases": "Successful Cases",
+    "clients": "Satisfied Clients",
+    "response": "Immediate Response",
+    "responseLabel": "24/7 Availability"
+  },
+  "about": {
+    "label": "MEET THE ATTORNEY",
+    "title": "Ahmad Awad Aljarrah, Esq.",
+    "bio": "With over fifteen years of practice in Jordan's Sharia courts, Ahmad Aljarrah combines deep expertise in Islamic jurisprudence with mastery of Jordanian family law. He is committed to providing confidential legal counsel that protects his clients' rights and delivers justice in every personal status matter.",
+    "credentials": [
+      "Licensed to practice in all Sharia courts across Jordan",
+      "Expert in Islamic jurisprudence and Jordanian law",
+      "Full confidentiality guaranteed on all consultations"
+    ],
+    "readMore": "Read Full Biography",
+    "yearsExp": "+15",
+    "successfulCases": "+2500",
+    "satisfiedClients": "+1800"
+  },
+  "aboutPage": {
+    "heroLabel": "Sharia Lawyer in Jordan",
+    "heroTitle": "About Us",
+    "heroSub": "Deep legal expertise in Islamic Sharia law at your service",
+    "mainLabel": "About the Firm",
+    "mainTitle": "Ahmad Aljarrah — Sharia Lawyer",
+    "mainContent": "Ahmad Aljarrah Law Firm provides legal consultations in marriage, divorce, and personal status cases including marital disputes, custody, alimony, inheritance, and all family law matters before Sharia courts throughout Jordan: Amman, Tla' Al-Ali, Khalda, Um Al-Summaq, Tabarbour, Sweifieh, and Abdoun.",
+    "mainContent2": "We handle all procedures related to marriage contracts including documentation, conditions, rulings, dowry, residence, divorce, revocation, redemption, separation, paternity, breastfeeding, custody, visitation, guardianship, trusteeship, wills, estates, and expedited enforcement of judgments.",
+    "docsLabel": "Online Service",
+    "docsTitle": "Your Documents Are Safe",
+    "docsContent": "You can send your legal Sharia documents to Ahmad Aljarrah with complete confidentiality and reliability online — no need to visit the office — through our secure online services.",
+    "hoursTitle": "Office Hours",
+    "hoursDays": "Saturday – Thursday",
+    "hoursTime": "8:00 AM – 5:00 PM",
+    "titleLabel": "Professional Title",
+    "titleName": "Sharia Lawyer Ahmad Awad Aljarrah",
+    "titleRole1": "Legal Sharia Consultations & Pleadings",
+    "titleRole2": "Legal Representation before Sharia Courts",
+    "locationTitle": "Office Location",
+    "locationLine1": "Irbid — Al-Naseem Roundabout",
+    "locationLine2": "Next to Al-Fari'a Commercial Complex",
+    "locationLine3": "(Old Sharia Court Building)"
+  },
+  "services": {
+    "label": "OUR SERVICES",
+    "title": "Comprehensive Personal Status Legal Services",
+    "viewMore": "Learn More",
+    "items": {
+      "marriage": {
+        "title": "Marriage & Divorce",
+        "description": "Specialized legal representation in all marriage and divorce cases under Islamic law and Jordanian legislation",
+        "sub": ["Marital disputes & marriage proof", "No-fault divorce & Khul'", "Compensation for arbitrary divorce", "Revocation of divorce"]
+      },
+      "custody": {
+        "title": "Alimony & Custody",
+        "description": "Protecting the financial and custody rights of wives and children under Sharia law",
+        "sub": ["Spousal & child alimony", "Iddah & education alimony", "Child custody & visitation", "Travel permission for child"]
+      },
+      "inheritance": {
+        "title": "Inheritance & Estates",
+        "description": "Resolving inheritance disputes and distributing estates according to Islamic law",
+        "sub": ["Estate correction & distribution", "Estate debts & ownership proof", "Heir dispute resolution"]
+      },
+      "dowry": {
+        "title": "Dowry & Annulment",
+        "description": "Claiming dowry rights and pursuing marriage annulment before Sharia courts",
+        "sub": ["Claiming prompt & deferred dowry", "Annulment for absence, harm, or defect", "Annulment for non-payment of dowry"]
+      },
+      "wills": {
+        "title": "Wills & Endowments",
+        "description": "Proving wills and holding guardians accountable under Islamic principles",
+        "sub": ["Proving & contesting wills", "Guardian accountability & removal", "Endowment (Waqf) cases"]
+      },
+      "other": {
+        "title": "Additional Services",
+        "description": "A range of legal services including mediation, consultations, and family procedures",
+        "sub": ["Family card & digital services", "Pre-marriage consultations", "Common law marriage & paternity", "Reconciliation & mediation sessions"]
+      }
+    }
+  },
+  "servicesPage": {
+    "heroLabel": "Legal Services",
+    "heroTitle": "Our Legal Services",
+    "heroSub": "Specialized legal representation in all personal status cases",
+    "intro": "Ahmad Aljarrah Law Firm provides comprehensive legal services in personal status and Islamic Sharia cases, maintaining full confidentiality and professionalism in all Sharia courts across Jordan.",
+    "ctaTitle": "Need Legal Representation?",
+    "ctaText": "If you need legal representation in any Sharia matter, contact us now for a specialized consultation.",
+    "ctaBtn": "Book a Free Consultation",
+    "categories": [
+      {
+        "title": "Divorce Cases",
+        "items": [
+          "Marital disputes: filed by wife or husband to dissolve the marriage",
+          "Marriage proof, divorce proof",
+          "No-fault divorce (Ibra') and Khul' before or after consummation",
+          "Amending a divorce certificate from irrevocable to revocable",
+          "Proving revocation after revocable divorce",
+          "Revocation after revocable divorce due to inability to pay alimony",
+          "Compensation for arbitrary divorce"
+        ]
+      },
+      {
+        "title": "Alimony Cases",
+        "items": [
+          "Spousal alimony (increase, reduction, or termination)",
+          "Imposing alimony on an insolvent husband",
+          "Pregnancy alimony",
+          "Cases of refusing to pay alimony",
+          "Termination of alimony due to disobedience (Nushuz)",
+          "Iddah alimony",
+          "Proof of paternity, breastfeeding, and custody",
+          "Child alimony",
+          "Adult alimony (father, mother, relatives)",
+          "Educational alimony (children, university level)"
+        ]
+      },
+      {
+        "title": "Custody Fees Cases",
+        "items": [
+          "Custody fees (increase, reduction, termination)",
+          "Housing fees",
+          "Medical and treatment fees (prenatal, childbirth, medical treatment)",
+          "Breastfeeding fees"
+        ]
+      },
+      {
+        "title": "Child Custody Cases",
+        "items": [
+          "Child custody by mother or father",
+          "Preventing interference in minor custody",
+          "Travel authorization for the custodied child",
+          "Visitation cases (father, mother, grandparents)",
+          "Visitation fees",
+          "Temporary suspension of custody"
+        ]
+      },
+      {
+        "title": "Dowry & Annulment Cases",
+        "items": [
+          "Claiming prompt dowry",
+          "Marriage annulment (absence, harm, imprisonment, defect, repulsive illness)",
+          "Annulment for husband's inability to pay dowry"
+        ]
+      },
+      {
+        "title": "Inheritance & Estate Cases",
+        "items": [
+          "Estate correction (adjusting heirs' shares)",
+          "Estate debts",
+          "Proving ownership within the estate",
+          "Determining legal heirs",
+          "Division of jointly owned real estate",
+          "Resolving disputes between heirs"
+        ]
+      },
+      {
+        "title": "Wills & Endowment Cases",
+        "items": [
+          "Proving a will (full or partial estate)",
+          "Invalidating an unlawful will",
+          "Holding the executor accountable",
+          "Removing a negligent executor"
+        ]
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose Us?",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Deep Legal Expertise",
+        "description": "Profound knowledge of Islamic jurisprudence combined with complete mastery of Jordanian law"
+      },
+      {
+        "number": "02",
+        "title": "Full Confidentiality",
+        "description": "Complete protection of client privacy and information across all cases"
+      },
+      {
+        "number": "03",
+        "title": "Immediate Response",
+        "description": "24/7 follow-up via WhatsApp and continuous client communication"
+      },
+      {
+        "number": "04",
+        "title": "Just Outcomes",
+        "description": "Protecting your rights through execution stage and ensuring justice is served"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "items": [
+      {
+        "text": "Ahmad resolved my case in the shortest possible time. I recommend him to anyone seeking a trusted attorney for personal status matters.",
+        "name": "Um Khalid",
+        "caseType": "Custody Case"
+      },
+      {
+        "text": "I was under enormous pressure and needed someone to stand by me and protect my rights. Ahmad was truly supportive and demonstrated great competence in court.",
+        "name": "M. Samir",
+        "caseType": "Alimony Case"
+      },
+      {
+        "text": "He handled my divorce case with complete professionalism and discretion. I have recommended him to several friends and he hasn't let anyone down.",
+        "name": "Farida A.",
+        "caseType": "Divorce Case"
+      },
+      {
+        "text": "An inheritance dispute that dragged on for years was resolved by Ahmad in just a few months, to the satisfaction of all parties involved.",
+        "name": "Abdul Rahman M.",
+        "caseType": "Inheritance Case"
+      }
+    ]
+  },
+  "caseStudiesPage": {
+    "heroLabel": "Our Work",
+    "heroTitle": "Success Stories",
+    "heroSub": "Real examples of cases where we proved our expertise",
+    "intro": "We present here examples of successful cases handled by our firm while maintaining complete client confidentiality. Each case reflects our commitment to protecting client rights under Islamic Sharia.",
+    "typeLabel": "Case Type",
+    "regionLabel": "Region",
+    "resultLabel": "Outcome",
+    "durationLabel": "Duration",
+    "ctaTitle": "Have a Similar Case?",
+    "ctaText": "Contact us now for a free consultation and objective assessment of your case.",
+    "ctaBtn": "Book a Free Consultation",
+    "confidentialNote": "All case details are anonymized to protect client confidentiality.",
+    "cases": [
+      {
+        "title": "Marital Dispute — Recovering Wife's Rights",
+        "type": "Marital Dispute",
+        "region": "Irbid",
+        "result": "Client obtained all financial and legal rights",
+        "duration": "4 months"
+      },
+      {
+        "title": "Paternity Proof Case",
+        "type": "Paternity & Custody",
+        "region": "Amman",
+        "result": "Legal paternity established, child's rights secured",
+        "duration": "6 months"
+      },
+      {
+        "title": "Inheritance Dispute — Family Resolution",
+        "type": "Estate Division",
+        "region": "Zarqa",
+        "result": "Fair Sharia-compliant division, amicable resolution",
+        "duration": "8 months"
+      },
+      {
+        "title": "Child Custody — Protecting Children's Interests",
+        "type": "Custody & Visitation",
+        "region": "Tla' Al-Ali",
+        "result": "Custody secured with organized visitation rights",
+        "duration": "3 months"
+      },
+      {
+        "title": "Alimony Increase for Children",
+        "type": "Child Alimony Increase",
+        "region": "Tabarbour",
+        "result": "Alimony increased by 80% based on circumstances",
+        "duration": "2 months"
+      },
+      {
+        "title": "Marriage Contract Annulment",
+        "type": "Annulment for Harm",
+        "region": "Amman",
+        "result": "Contract annulled, wife's full rights guaranteed",
+        "duration": "5 months"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Legal Insights",
+    "viewAll": "View All Articles",
+    "readTime": "min read",
+    "articles": [
+      {
+        "slug": "how-to-choose-sharia-lawyer-jordan",
+        "title": "How to Choose a Sharia Lawyer Specializing in Divorce Cases in Jordan",
+        "excerpt": "A comprehensive guide to selecting the right Sharia attorney for your case in Jordanian courts",
+        "category": "Legal Tips",
+        "readTime": "5"
+      },
+      {
+        "slug": "wife-financial-rights-after-divorce-jordan",
+        "title": "Wife's Financial Rights After Divorce Under Jordanian Law",
+        "excerpt": "Understand all rights to alimony, dowry, and compensation after divorce",
+        "category": "Divorce Cases",
+        "readTime": "7"
+      },
+      {
+        "slug": "inheritance-distribution-procedures-jordan",
+        "title": "Inheritance Distribution Procedures in Jordan — Complete Guide",
+        "excerpt": "Steps and legal documents for estate distribution in Jordanian Sharia courts",
+        "category": "Inheritance Cases",
+        "readTime": "8"
+      }
+    ]
+  },
+  "blogPage": {
+    "heroLabel": "Legal Blog",
+    "heroTitle": "Legal Articles",
+    "heroSub": "Specialized articles on personal status law and Islamic Sharia",
+    "readMore": "Read More",
+    "minRead": "min read",
+    "placeholderCta": "Need Legal Advice?",
+    "placeholderCtaText": "Contact us for a specialized consultation on your case.",
+    "placeholderCtaBtn": "Book a Free Consultation",
+    "articles": [
+      {
+        "slug": "how-to-choose-sharia-lawyer-jordan",
+        "title": "How to Choose a Sharia Lawyer Specializing in Divorce Cases in Jordan",
+        "excerpt": "A comprehensive guide to selecting the right Sharia attorney for your case in Jordanian courts.",
+        "category": "Legal Tips",
+        "readTime": "5"
+      },
+      {
+        "slug": "wife-financial-rights-after-divorce-jordan",
+        "title": "Wife's Financial Rights After Divorce Under Jordanian Law",
+        "excerpt": "Understand all rights to alimony, dowry, and compensation after divorce under Sharia and law.",
+        "category": "Divorce Cases",
+        "readTime": "7"
+      },
+      {
+        "slug": "inheritance-distribution-procedures-jordan",
+        "title": "Inheritance Distribution Procedures in Jordan — Complete Guide",
+        "excerpt": "Steps and legal documents for estate distribution in Jordanian Sharia courts and resolving disputes.",
+        "category": "Inheritance Cases",
+        "readTime": "8"
+      },
+      {
+        "slug": "child-alimony-after-divorce-jordan",
+        "title": "Child Alimony After Divorce: Conditions, Amounts, and Procedures",
+        "excerpt": "Everything you need to know about child alimony and how it is determined, increased, or reduced in Sharia courts.",
+        "category": "Alimony Cases",
+        "readTime": "6"
+      },
+      {
+        "slug": "paternity-proof-procedures-jordan",
+        "title": "Steps to Prove Paternity in Jordanian Sharia Courts",
+        "excerpt": "Procedures and evidence for proving paternity under Islamic Sharia and Jordanian law.",
+        "category": "Paternity Cases",
+        "readTime": "8"
+      },
+      {
+        "slug": "khul-vs-divorce-financial-rights",
+        "title": "The Difference Between Khul' and Divorce and Their Effect on Financial Rights",
+        "excerpt": "A comprehensive comparison between Khul' and divorce and their impact on the wife's financial rights and dowry.",
+        "category": "Divorce Cases",
+        "readTime": "6"
+      },
+      {
+        "slug": "child-visitation-rights-after-divorce-jordan",
+        "title": "Child Visitation Rights After Divorce in Jordan",
+        "excerpt": "A detailed explanation of visitation rights and how they are legally organized to ensure children's best interests.",
+        "category": "Custody Cases",
+        "readTime": "5"
+      },
+      {
+        "slug": "shiqaq-wa-niza-lawsuit-procedures",
+        "title": "How to File a Marital Dispute (Shiqaq) Lawsuit in Sharia Courts",
+        "excerpt": "A step-by-step guide to filing a marital dispute lawsuit in Jordanian Sharia courts and its consequences.",
+        "category": "Legal Procedures",
+        "readTime": "7"
+      }
+    ]
+  },
+  "contactPage": {
+    "heroLabel": "We're Here to Help",
+    "heroTitle": "Contact Us",
+    "heroSub": "Free Consultation — All Information Strictly Confidential",
+    "infoTitle": "Contact Information",
+    "formTitle": "Send Your Message",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Full Name",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "+962 79 210 1164",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "example@email.com",
+    "caseTypeLabel": "Case Type",
+    "caseTypePlaceholder": "Select case type",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Write your message here...",
+    "submitBtn": "Send Message",
+    "submitViaWhatsApp": "Send via WhatsApp",
+    "privacy": "🔒 All information is strictly confidential",
+    "caseTypes": [
+      "Divorce & Marital Dispute",
+      "Alimony",
+      "Custody",
+      "Inheritance & Estates",
+      "Dowry & Annulment",
+      "Wills & Endowments",
+      "General Consultation",
+      "Other"
+    ],
+    "socialTitle": "Follow Us",
+    "mapTitle": "Office Location"
+  },
+  "faqPage": {
+    "heroLabel": "FAQ",
+    "heroTitle": "Frequently Asked Questions",
+    "heroSub": "Answers to the most common legal questions",
+    "ctaTitle": "Didn't Find Your Answer?",
+    "ctaText": "Contact us directly for a specialized answer to your specific case.",
+    "ctaBtn": "Talk to the Lawyer",
+    "items": [
+      {
+        "q": "Do you offer free legal consultations?",
+        "a": "Yes, we offer a free initial 15-minute consultation to understand your case and assess your legal situation."
+      },
+      {
+        "q": "Which areas do you serve?",
+        "a": "We serve all Jordanian governorates, with our main office in Irbid and case follow-up in Amman, Zarqa, and all Sharia courts in the Kingdom."
+      },
+      {
+        "q": "How long does a divorce case usually take?",
+        "a": "Divorce cases typically take between 3-8 months depending on the case type, complexity, and cooperation of the parties involved."
+      },
+      {
+        "q": "Can I send my documents electronically?",
+        "a": "Yes, you can send documents with complete confidentiality via WhatsApp or email without needing to visit the office."
+      },
+      {
+        "q": "What are a divorced wife's financial rights?",
+        "a": "They include: deferred dowry, Iddah alimony, compensation for arbitrary divorce (if applicable), child alimony (if any), custody fees, and housing fees."
+      },
+      {
+        "q": "Do you handle complex inheritance cases?",
+        "a": "Yes, we specialize in complex inheritance cases including estate correction, heir disputes, and proving ownership within the estate."
+      },
+      {
+        "q": "What is the difference between Khul' and divorce?",
+        "a": "Khul' is requested by the wife in exchange for waiving her deferred dowry, while divorce is initiated by the husband and the wife retains all her financial rights."
+      },
+      {
+        "q": "Does the mother always get custody?",
+        "a": "Under Jordanian law, the mother has priority for custody until the child is 15 years old, after which the child chooses, always considering the child's best interests."
+      },
+      {
+        "q": "How is child alimony determined?",
+        "a": "Alimony is determined based on: the father's income, number of children, their ages, and the previous standard of living, with the possibility of later adjustment."
+      },
+      {
+        "q": "Do you offer reconciliation and mediation services?",
+        "a": "Yes, we believe in the importance of amicable solutions and provide reconciliation and mediation sessions to resolve family disputes before resorting to courts."
+      }
+    ]
+  },
+  "booking": {
+    "title": "Book Your Consultation",
+    "subtitle": "Contact us to schedule a confidential legal consultation",
+    "namePlaceholder": "Full Name",
+    "phonePlaceholder": "Phone Number",
+    "caseTypePlaceholder": "Case Type",
+    "detailsPlaceholder": "Case Details (optional)",
+    "privacy": "🔒 All information is strictly confidential",
+    "submit": "Confirm Booking",
+    "whatsapp": "Confirm via WhatsApp",
+    "success": "Your request has been received. We will contact you shortly.",
+    "timeslots": {
+      "morning": "Morning",
+      "afternoon": "Afternoon"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Irbid, Al-Naseem Roundabout, next to Al-Fari'a Commercial Complex",
+    "phone": "+962 79 210 1164",
+    "email": "info@aljarrahlawyer.com",
+    "hours": "Saturday – Thursday | 8:00 AM – 5:00 PM",
+    "friday": "Friday: Weekly Holiday"
+  },
+  "footer": {
+    "tagline": "Sharia Lawyer specializing in Personal Status Law in Jordan",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "areasTitle": "Serving All Jordan",
+    "areas": ["Irbid", "Amman", "Zarqa", "Tabarbour", "Abdoun", "Jubaiha", "Um Uthaina", "Abdali", "Khalda", "Sweifieh", "Tla' Al-Ali", "Al-Rabia"],
+    "newsletter": "Subscribe for the latest legal insights",
+    "newsletterPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "copyright": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "whatsapp": {
+    "tooltip": "Chat with us directly"
+  }
+}
