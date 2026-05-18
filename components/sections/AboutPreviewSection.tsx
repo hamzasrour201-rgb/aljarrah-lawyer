@@ -124,9 +124,15 @@ export default function AboutPreviewSection() {
             {/* Bio */}
             <p
               className="text-[var(--color-text-secondary)] leading-relaxed text-base"
-              style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }}
+              style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)', lineHeight: 1.85, fontSize: '15px' }}
             >
               {t('bio')}
+            </p>
+            <p
+              className="text-[var(--color-text-secondary)] leading-relaxed text-base"
+              style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)', lineHeight: 1.85, fontSize: '15px' }}
+            >
+              {t('bio2')}
             </p>
 
             {/* Credentials */}

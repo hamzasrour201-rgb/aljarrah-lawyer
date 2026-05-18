@@ -6,20 +6,18 @@ import { motion, useInView, AnimatePresence } from 'framer-motion'
 import PageHero from '@/components/shared/PageHero'
 
 const categoryIcons = [
-  // Divorce
+  // Divorce & Separation
   <svg key="divorce" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>,
-  // Alimony
-  <svg key="alimony" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M12 2a5 5 0 1 0 0 10 5 5 0 0 0 0-10z"/><path d="M20 21a8 8 0 1 0-16 0"/></svg>,
-  // Fees
-  <svg key="fees" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>,
-  // Custody
+  // Custody & Alimony
   <svg key="custody" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>,
-  // Dowry
-  <svg key="dowry" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>,
-  // Inheritance
+  // Marriage & Dowry
+  <svg key="marriage" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>,
+  // Lineage & Guardianship
+  <svg key="lineage" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>,
+  // Inheritance & Estates
   <svg key="inheritance" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>,
-  // Wills
-  <svg key="wills" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>,
+  // Appeals & Execution
+  <svg key="appeals" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>,
 ]
 
 function ServiceCard({ category, icon, index }: { category: { title: string; items: string[] }; icon: React.ReactNode; index: number }) {
@@ -110,7 +108,10 @@ export default function ServicesPageClient() {
   const locale = useLocale()
   const isAr = locale === 'ar'
   const categories = t.raw('categories') as Array<{ title: string; items: string[] }>
+  const whyUsItems = t.raw('whyUsItems') as string[]
 
+  const whyUsRef = useRef<HTMLElement>(null)
+  const whyUsInView = useInView(whyUsRef, { once: true, margin: '-80px' })
   const ctaRef = useRef<HTMLElement>(null)
   const ctaInView = useInView(ctaRef, { once: true, margin: '-80px' })
 
@@ -138,6 +139,49 @@ export default function ServicesPageClient() {
               <ServiceCard key={i} category={cat} icon={categoryIcons[i]} index={i} />
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Why Choose Our Firm */}
+      <section ref={whyUsRef} className="pb-16">
+        <div className="container-brand px-6">
+          <motion.div
+            initial={{ opacity: 0, y: 24 }}
+            animate={whyUsInView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.6 }}
+            className="max-w-4xl mx-auto p-10 rounded-sm border border-[var(--color-gold-muted)]"
+            style={{ background: 'rgba(201,169,97,0.03)' }}
+          >
+            <h2
+              className="text-[var(--color-text-primary)] text-center mb-8"
+              style={{ fontFamily: isAr ? 'var(--font-amiri)' : 'var(--font-cormorant)', fontSize: 'clamp(22px, 3vw, 36px)', fontWeight: isAr ? 700 : 600 }}
+            >
+              {t('whyUsTitle')}
+            </h2>
+            <div className="grid sm:grid-cols-2 gap-4">
+              {whyUsItems.map((item, i) => (
+                <motion.div
+                  key={i}
+                  initial={{ opacity: 0, x: isAr ? 20 : -20 }}
+                  animate={whyUsInView ? { opacity: 1, x: 0 } : {}}
+                  transition={{ duration: 0.5, delay: i * 0.08 }}
+                  className="flex items-start gap-3"
+                >
+                  <span className="text-[var(--color-gold-primary)] mt-0.5 shrink-0">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="var(--color-gold-primary)" stroke="none">
+                      <path d="M9 12l2 2 4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0z" fill="none" stroke="var(--color-gold-primary)" strokeWidth="2" strokeLinecap="round"/>
+                    </svg>
+                  </span>
+                  <span
+                    className="text-[var(--color-text-secondary)] text-sm leading-relaxed"
+                    style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }}
+                  >
+                    {item}
+                  </span>
+                </motion.div>
+              ))}
+            </div>
+          </motion.div>
         </div>
       </section>
 

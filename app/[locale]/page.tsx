@@ -3,6 +3,7 @@ import { buildPageMetadata, legalServiceSchema, personSchema } from '@/lib/seo'
 import HeroSection from '@/components/sections/HeroSection'
 import StatsSection from '@/components/sections/StatsSection'
 import AboutPreviewSection from '@/components/sections/AboutPreviewSection'
+import WhyChooseAljarrahSection from '@/components/sections/WhyChooseAljarrahSection'
 import ServicesSection from '@/components/sections/ServicesSection'
 import WhyChooseUsSection from '@/components/sections/WhyChooseUsSection'
 import TestimonialsSection from '@/components/sections/TestimonialsSection'
@@ -31,6 +32,7 @@ export default async function HomePage() {
       <HeroSection />
       <StatsSection />
       <AboutPreviewSection />
+      <WhyChooseAljarrahSection />
       <ServicesSection />
       <WhyChooseUsSection />
       <TestimonialsSection />

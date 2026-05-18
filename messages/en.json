@@ -12,8 +12,8 @@
   "hero": {
     "preHeadline": "Experience. Trust. Justice.",
     "name1": "Ahmad Aljarrah",
-    "name2": "Sharia Lawyer",
-    "subHeadline": "Specialist in Personal Status & Islamic Family Law | Irbid, Jordan",
+    "name2": "Sharia Lawyer | Family Law Solicitor | Family Attorney",
+    "subHeadline": "Specialized in Marriage & Divorce for Foreigners, Expats & Residents | Personal Status Law | Irbid, Jordan",
     "ctaPrimary": "Book Your Consultation",
     "ctaSecondary": "Explore Our Services"
   },
@@ -26,26 +26,39 @@
   },
   "about": {
     "label": "MEET THE ATTORNEY",
-    "title": "Ahmad Awad Aljarrah, Esq.",
-    "bio": "With over fifteen years of practice in Jordan's Sharia courts, Ahmad Aljarrah combines deep expertise in Islamic jurisprudence with mastery of Jordanian family law. He is committed to providing confidential legal counsel that protects his clients' rights and delivers justice in every personal status matter.",
+    "title": "Ahmad Awad Aljarrah",
+    "bio": "Graduated in 1999 from Mutah University with a degree in Law from the Faculty of Law. Worked at the Ministry of Interior in the Judicial Police and Legal Affairs Department, and served as a delegated Public Prosecutor at the Palace of Justice. Participated for over six years with the United Nations in Chad, Ivory Coast, Central African Republic, Haiti, and Mali as an International Observer. Fluent in French. Previously served as Head of Department at the Judicial Police, with extensive experience in investigations.",
+    "bio2": "With over 24 years of experience in police work, criminal investigations, and court proceedings, I provide precise legal consultations and prepare comprehensive legal documents to ensure full protection of my clients' rights.",
     "credentials": [
-      "Licensed to practice in all Sharia courts across Jordan",
-      "Expert in Islamic jurisprudence and Jordanian law",
-      "Full confidentiality guaranteed on all consultations"
+      "Mutah University Law Graduate (1999)",
+      "Former Delegated Public Prosecutor at Palace of Justice",
+      "UN International Observer (6+ years)",
+      "Former Head of Department - Judicial Police",
+      "Extensive Police & Criminal Investigation Experience",
+      "Speaks Arabic and French"
     ],
     "readMore": "Read Full Biography",
-    "yearsExp": "+15",
+    "yearsExp": "+24",
     "successfulCases": "+2500",
     "satisfiedClients": "+1800"
   },
   "aboutPage": {
-    "heroLabel": "Sharia Lawyer in Jordan",
+    "heroLabel": "Sharia Lawyer & Family Law Attorney in Jordan",
     "heroTitle": "About Us",
     "heroSub": "Deep legal expertise in Islamic Sharia law at your service",
     "mainLabel": "About the Firm",
-    "mainTitle": "Ahmad Aljarrah — Sharia Lawyer",
-    "mainContent": "Ahmad Aljarrah Law Firm provides legal consultations in marriage, divorce, and personal status cases including marital disputes, custody, alimony, inheritance, and all family law matters before Sharia courts throughout Jordan: Amman, Tla' Al-Ali, Khalda, Um Al-Summaq, Tabarbour, Sweifieh, and Abdoun.",
-    "mainContent2": "We handle all procedures related to marriage contracts including documentation, conditions, rulings, dowry, residence, divorce, revocation, redemption, separation, paternity, breastfeeding, custody, visitation, guardianship, trusteeship, wills, estates, and expedited enforcement of judgments.",
+    "mainTitle": "Ahmad Awad Aljarrah",
+    "mainSubtitle": "Sharia Lawyer & Family Law Attorney in Jordan",
+    "mainContent": "Graduated in 1999 from Mutah University with a degree in Law from the Faculty of Law. Worked at the Ministry of Interior in the Judicial Police and Legal Affairs Department, and served as a delegated Public Prosecutor at the Palace of Justice. Participated for over six years with the United Nations in Chad, Ivory Coast, Central African Republic, Haiti, and Mali as an International Observer. Fluent in French. Previously served as Head of Department at the Judicial Police, with extensive experience in investigations.",
+    "mainContent2": "With over 24 years of experience in police work, criminal investigations, and court proceedings, I provide precise legal consultations and prepare comprehensive legal documents to ensure full protection of my clients' rights.",
+    "credentials": [
+      "Mutah University Law Graduate (1999)",
+      "Former Delegated Public Prosecutor at Palace of Justice",
+      "UN International Observer (6+ years)",
+      "Former Head of Department - Judicial Police",
+      "Extensive Police & Criminal Investigation Experience",
+      "Speaks Arabic and French"
+    ],
     "docsLabel": "Online Service",
     "docsTitle": "Your Documents Are Safe",
     "docsContent": "You can send your legal Sharia documents to Ahmad Aljarrah with complete confidentiality and reliability online — no need to visit the office — through our secure online services.",
@@ -53,8 +66,8 @@
     "hoursDays": "Saturday – Thursday",
     "hoursTime": "8:00 AM – 5:00 PM",
     "titleLabel": "Professional Title",
-    "titleName": "Sharia Lawyer Ahmad Awad Aljarrah",
-    "titleRole1": "Legal Sharia Consultations & Pleadings",
+    "titleName": "Ahmad Awad Aljarrah",
+    "titleRole1": "Sharia Lawyer & Family Law Attorney",
     "titleRole2": "Legal Representation before Sharia Courts",
     "locationTitle": "Office Location",
     "locationLine1": "Irbid — Al-Naseem Roundabout",
@@ -94,95 +107,114 @@
       "other": {
         "title": "Additional Services",
         "description": "A range of legal services including mediation, consultations, and family procedures",
-        "sub": ["Family card & digital services", "Pre-marriage consultations", "Common law marriage & paternity", "Reconciliation & mediation sessions"]
+        "sub": ["Family card & digital services", "Pre-marriage consultations", "Paternity proof", "Reconciliation & mediation sessions"]
       }
     }
   },
   "servicesPage": {
-    "heroLabel": "Legal Services",
-    "heroTitle": "Our Legal Services",
+    "heroLabel": "Legal Specializations & Services",
+    "heroTitle": "Legal Specializations & Services",
     "heroSub": "Specialized legal representation in all personal status cases",
-    "intro": "Ahmad Aljarrah Law Firm provides comprehensive legal services in personal status and Islamic Sharia cases, maintaining full confidentiality and professionalism in all Sharia courts across Jordan.",
+    "intro": "Comprehensive representation before Sharia Courts in Jordan for all cases and external power-of-attorney services. Specialized in marriage and divorce for foreigners, expatriates, and residents in Jordan, and all legal matters arising from marriage contracts.",
     "ctaTitle": "Need Legal Representation?",
     "ctaText": "If you need legal representation in any Sharia matter, contact us now for a specialized consultation.",
-    "ctaBtn": "Book a Free Consultation",
+    "ctaBtn": "Book Your Consultation",
+    "whyUsTitle": "What Sets Our Firm Apart",
+    "whyUsItems": [
+      "Complete Legal Service from Consultation to Execution",
+      "Precise & Continuous Case Follow-up",
+      "Flawless Legal Document Preparation",
+      "Humanitarian & Professional Client Treatment",
+      "Complete Privacy & Confidentiality",
+      "Full Online Communication (No In-Person Visits Required)"
+    ],
     "categories": [
       {
-        "title": "Divorce Cases",
+        "title": "Divorce & Separation",
         "items": [
-          "Marital disputes: filed by wife or husband to dissolve the marriage",
-          "Marriage proof, divorce proof",
-          "No-fault divorce (Ibra') and Khul' before or after consummation",
-          "Amending a divorce certificate from irrevocable to revocable",
-          "Proving revocation after revocable divorce",
-          "Revocation after revocable divorce due to inability to pay alimony",
-          "Compensation for arbitrary divorce"
+          "Marital Discord Divorce",
+          "Arbitrary Divorce",
+          "Khula (Wife-initiated Divorce)",
+          "Reconciliation (Raj'a)",
+          "Divorce Document Modification",
+          "Mutual Release Divorce",
+          "Divorce Affirmation/Denial"
         ]
       },
       {
-        "title": "Alimony Cases",
+        "title": "Custody & Alimony",
         "items": [
-          "Spousal alimony (increase, reduction, or termination)",
-          "Imposing alimony on an insolvent husband",
-          "Pregnancy alimony",
-          "Cases of refusing to pay alimony",
-          "Termination of alimony due to disobedience (Nushuz)",
-          "Iddah alimony",
-          "Proof of paternity, breastfeeding, and custody",
-          "Child alimony",
-          "Adult alimony (father, mother, relatives)",
-          "Educational alimony (children, university level)"
+          "Custody, Inclusion & Visitation Cases",
+          "Custody Removal & Modification",
+          "Wife & Children Alimony",
+          "Education Alimony",
+          "Custody Fees",
+          "Housing Allowance",
+          "Natural Breastfeeding Compensation"
         ]
       },
       {
-        "title": "Custody Fees Cases",
+        "title": "Marriage & Dowry",
         "items": [
-          "Custody fees (increase, reduction, termination)",
-          "Housing fees",
-          "Medical and treatment fees (prenatal, childbirth, medical treatment)",
-          "Breastfeeding fees"
+          "Legal Documentation of Marriage Contracts",
+          "Marriage Contract Annulment (Harm, Absence, Insanity, Non-Support, Apostasy)",
+          "Separation for Insanity",
+          "Dowry Claims & Returns",
+          "Special Conditions in Marriage Contracts"
         ]
       },
       {
-        "title": "Child Custody Cases",
+        "title": "Lineage & Guardianship",
         "items": [
-          "Child custody by mother or father",
-          "Preventing interference in minor custody",
-          "Travel authorization for the custodied child",
-          "Visitation cases (father, mother, grandparents)",
-          "Visitation fees",
-          "Temporary suspension of custody"
+          "Lineage Affirmation/Denial",
+          "Will Validation/Invalidation",
+          "Guardian Appointment/Removal",
+          "Legal Accounting",
+          "Guardianship Affirmation",
+          "Family Endowment (Waqf)",
+          "Hikr Cases"
         ]
       },
       {
-        "title": "Dowry & Annulment Cases",
+        "title": "Inheritance & Estates",
         "items": [
-          "Claiming prompt dowry",
-          "Marriage annulment (absence, harm, imprisonment, defect, repulsive illness)",
-          "Annulment for husband's inability to pay dowry"
+          "Inheritance Determination",
+          "Estate Distribution",
+          "Settlement Nullification",
+          "Estate Debts",
+          "Inheritance Correction",
+          "Ownership Proof",
+          "Expedited Execution Lawsuits"
         ]
       },
       {
-        "title": "Inheritance & Estate Cases",
+        "title": "Appeals & Execution",
         "items": [
-          "Estate correction (adjusting heirs' shares)",
-          "Estate debts",
-          "Proving ownership within the estate",
-          "Determining legal heirs",
-          "Division of jointly owned real estate",
-          "Resolving disputes between heirs"
-        ]
-      },
-      {
-        "title": "Wills & Endowment Cases",
-        "items": [
-          "Proving a will (full or partial estate)",
-          "Invalidating an unlawful will",
-          "Holding the executor accountable",
-          "Removing a negligent executor"
+          "Judgment Objections",
+          "Sharia Appeals",
+          "Supreme Sharia Court Appeals",
+          "Sharia Judgment Execution",
+          "Foreign Judgment Enforcement"
         ]
       }
     ]
+  },
+  "whyChooseAljarrah": {
+    "label": "WHY US",
+    "title": "Why Choose Ahmad Aljarrah?",
+    "subtitle": "Sharia Lawyer & Family Law Attorney — Specialized in Marriage & Divorce for Foreigners, Expats & Residents in Jordan",
+    "tagline": "Legal Consultations & Litigation in All Sharia Courts in Jordan",
+    "servicesTitle": "Our Services Include:",
+    "services": [
+      "Precise Sharia and Legal Consultations",
+      "Comprehensive Representation in Divorce, Marriage, Alimony, Custody, and Inheritance Cases",
+      "Legal Documentation of Marriage Contracts in Sharia Courts",
+      "Assistance with Marriage Documentation via Internal & External Power-of-Attorney",
+      "Preparation of Legal Briefs and Sharia Memorandums",
+      "Complete Case Follow-up in Courts"
+    ],
+    "missionTitle": "Our Mission:",
+    "mission": "To provide Sharia and legal solutions that restore family balance and ensure rights with justice, privacy, complete expertise, and full commitment to everyone who seeks our help."
   },
   "whyUs": {
     "title": "Why Choose Us?",
@@ -244,8 +276,8 @@
     "resultLabel": "Outcome",
     "durationLabel": "Duration",
     "ctaTitle": "Have a Similar Case?",
-    "ctaText": "Contact us now for a free consultation and objective assessment of your case.",
-    "ctaBtn": "Book a Free Consultation",
+    "ctaText": "Contact us now for a specialized legal consultation and objective assessment of your case.",
+    "ctaBtn": "Book Your Consultation",
     "confidentialNote": "All case details are anonymized to protect client confidentiality.",
     "cases": [
       {
@@ -298,25 +330,25 @@
     "readTime": "min read",
     "articles": [
       {
-        "slug": "how-to-choose-sharia-lawyer-jordan",
-        "title": "How to Choose a Sharia Lawyer Specializing in Divorce Cases in Jordan",
-        "excerpt": "A comprehensive guide to selecting the right Sharia attorney for your case in Jordanian courts",
-        "category": "Legal Tips",
-        "readTime": "5"
+        "slug": "marriage-contract-requirements-non-jordanians",
+        "title": "Marriage Contract Requirements & Procedures for Non-Jordanians in Jordan – Complete Legal Guide",
+        "excerpt": "A comprehensive guide to marriage contract requirements and procedures for foreigners and expats in Jordan under Islamic Sharia and Jordanian law",
+        "category": "Foreign Marriage",
+        "readTime": "10"
       },
       {
-        "slug": "wife-financial-rights-after-divorce-jordan",
-        "title": "Wife's Financial Rights After Divorce Under Jordanian Law",
-        "excerpt": "Understand all rights to alimony, dowry, and compensation after divorce",
-        "category": "Divorce Cases",
-        "readTime": "7"
+        "slug": "foreign-marriage-divorce-procedures-jordan",
+        "title": "Foreign Marriage and Divorce Procedures in Jordan – Expert Family Law Firm in Amman, Irbid, and Zarqa",
+        "excerpt": "Everything you need to know about marriage and divorce procedures for foreigners, expats, and residents in Jordan from a specialized legal perspective",
+        "category": "Foreign Marriage & Divorce",
+        "readTime": "12"
       },
       {
-        "slug": "inheritance-distribution-procedures-jordan",
-        "title": "Inheritance Distribution Procedures in Jordan — Complete Guide",
-        "excerpt": "Steps and legal documents for estate distribution in Jordanian Sharia courts",
-        "category": "Inheritance Cases",
-        "readTime": "8"
+        "slug": "arbitrary-divorce-compensation-jordan",
+        "title": "Arbitrary Divorce Compensation in Jordan – When Does a Wife Deserve Compensation?",
+        "excerpt": "Learn about a woman's right to compensation for arbitrary divorce under Jordanian law, eligibility conditions, and how to claim it",
+        "category": "Arbitrary Divorce",
+        "readTime": "11"
       }
     ]
   },
@@ -328,70 +360,35 @@
     "minRead": "min read",
     "placeholderCta": "Need Legal Advice?",
     "placeholderCtaText": "Contact us for a specialized consultation on your case.",
-    "placeholderCtaBtn": "Book a Free Consultation",
+    "placeholderCtaBtn": "Book Your Consultation",
     "articles": [
       {
-        "slug": "how-to-choose-sharia-lawyer-jordan",
-        "title": "How to Choose a Sharia Lawyer Specializing in Divorce Cases in Jordan",
-        "excerpt": "A comprehensive guide to selecting the right Sharia attorney for your case in Jordanian courts.",
-        "category": "Legal Tips",
-        "readTime": "5"
+        "slug": "marriage-contract-requirements-non-jordanians",
+        "title": "Marriage Contract Requirements & Procedures for Non-Jordanians in Jordan – Complete Legal Guide",
+        "excerpt": "A comprehensive guide to marriage contract requirements and procedures for foreigners and expats in Jordan under Islamic Sharia and Jordanian law.",
+        "category": "Foreign Marriage",
+        "readTime": "10"
       },
       {
-        "slug": "wife-financial-rights-after-divorce-jordan",
-        "title": "Wife's Financial Rights After Divorce Under Jordanian Law",
-        "excerpt": "Understand all rights to alimony, dowry, and compensation after divorce under Sharia and law.",
-        "category": "Divorce Cases",
-        "readTime": "7"
+        "slug": "foreign-marriage-divorce-procedures-jordan",
+        "title": "Foreign Marriage and Divorce Procedures in Jordan – Expert Family Law Firm in Amman, Irbid, and Zarqa",
+        "excerpt": "Everything you need to know about marriage and divorce procedures for foreigners, expats, and residents in Jordan from a specialized legal perspective.",
+        "category": "Foreign Marriage & Divorce",
+        "readTime": "12"
       },
       {
-        "slug": "inheritance-distribution-procedures-jordan",
-        "title": "Inheritance Distribution Procedures in Jordan — Complete Guide",
-        "excerpt": "Steps and legal documents for estate distribution in Jordanian Sharia courts and resolving disputes.",
-        "category": "Inheritance Cases",
-        "readTime": "8"
-      },
-      {
-        "slug": "child-alimony-after-divorce-jordan",
-        "title": "Child Alimony After Divorce: Conditions, Amounts, and Procedures",
-        "excerpt": "Everything you need to know about child alimony and how it is determined, increased, or reduced in Sharia courts.",
-        "category": "Alimony Cases",
-        "readTime": "6"
-      },
-      {
-        "slug": "paternity-proof-procedures-jordan",
-        "title": "Steps to Prove Paternity in Jordanian Sharia Courts",
-        "excerpt": "Procedures and evidence for proving paternity under Islamic Sharia and Jordanian law.",
-        "category": "Paternity Cases",
-        "readTime": "8"
-      },
-      {
-        "slug": "khul-vs-divorce-financial-rights",
-        "title": "The Difference Between Khul' and Divorce and Their Effect on Financial Rights",
-        "excerpt": "A comprehensive comparison between Khul' and divorce and their impact on the wife's financial rights and dowry.",
-        "category": "Divorce Cases",
-        "readTime": "6"
-      },
-      {
-        "slug": "child-visitation-rights-after-divorce-jordan",
-        "title": "Child Visitation Rights After Divorce in Jordan",
-        "excerpt": "A detailed explanation of visitation rights and how they are legally organized to ensure children's best interests.",
-        "category": "Custody Cases",
-        "readTime": "5"
-      },
-      {
-        "slug": "shiqaq-wa-niza-lawsuit-procedures",
-        "title": "How to File a Marital Dispute (Shiqaq) Lawsuit in Sharia Courts",
-        "excerpt": "A step-by-step guide to filing a marital dispute lawsuit in Jordanian Sharia courts and its consequences.",
-        "category": "Legal Procedures",
-        "readTime": "7"
+        "slug": "arbitrary-divorce-compensation-jordan",
+        "title": "Arbitrary Divorce Compensation in Jordan – When Does a Wife Deserve Compensation?",
+        "excerpt": "Learn about a woman's right to compensation for arbitrary divorce under Jordanian law, eligibility conditions, and how to claim it.",
+        "category": "Arbitrary Divorce",
+        "readTime": "11"
       }
     ]
   },
   "contactPage": {
     "heroLabel": "We're Here to Help",
     "heroTitle": "Contact Us",
-    "heroSub": "Free Consultation — All Information Strictly Confidential",
+    "heroSub": "Confidential Legal Consultation — Book Your Session Today",
     "infoTitle": "Contact Information",
     "formTitle": "Send Your Message",
     "nameLabel": "Full Name",
@@ -414,6 +411,7 @@
       "Inheritance & Estates",
       "Dowry & Annulment",
       "Wills & Endowments",
+      "Foreign / Expat Marriage & Divorce",
       "General Consultation",
       "Other"
     ],
@@ -429,8 +427,8 @@
     "ctaBtn": "Talk to the Lawyer",
     "items": [
       {
-        "q": "Do you offer free legal consultations?",
-        "a": "Yes, we offer a free initial 15-minute consultation to understand your case and assess your legal situation."
+        "q": "How can I contact Ahmad Aljarrah?",
+        "a": "You can reach us directly via WhatsApp or phone at +962 79 210 1164, or send a message through the contact form on this website. We respond as quickly as possible."
       },
       {
         "q": "Which areas do you serve?",
@@ -495,7 +493,7 @@
     "friday": "Friday: Weekly Holiday"
   },
   "footer": {
-    "tagline": "Sharia Lawyer specializing in Personal Status Law in Jordan",
+    "tagline": "Sharia Lawyer & Family Law Attorney specializing in Personal Status Law in Jordan",
     "quickLinks": "Quick Links",
     "services": "Services",
     "contactUs": "Contact Us",

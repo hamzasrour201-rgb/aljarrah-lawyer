@@ -45,6 +45,7 @@ export default function AboutPageClient() {
   const isAr = locale === 'ar'
   const sectionRef = useRef<HTMLElement>(null)
   const inView = useInView(sectionRef, { once: true, margin: '-80px' })
+  const credentials = t.raw('credentials') as string[]
 
   return (
     <>
@@ -127,6 +128,9 @@ export default function AboutPageClient() {
               >
                 {t('mainTitle')}
               </h2>
+              <p className="text-[var(--color-gold-primary)] text-sm font-medium" style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }}>
+                {t('mainSubtitle')}
+              </p>
               <div className="h-px w-14 bg-gradient-to-r from-[var(--color-gold-primary)] to-transparent" />
               <p className="text-[var(--color-text-secondary)] leading-relaxed" style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)', fontSize: '15px', lineHeight: 1.85 }}>
                 {t('mainContent')}
@@ -134,6 +138,22 @@ export default function AboutPageClient() {
               <p className="text-[var(--color-text-secondary)] leading-relaxed" style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)', fontSize: '15px', lineHeight: 1.85 }}>
                 {t('mainContent2')}
               </p>
+
+              {/* Credentials */}
+              <ul className="space-y-2.5 pt-2">
+                {credentials.map((item, i) => (
+                  <li key={i} className="flex items-start gap-3">
+                    <span className="text-[var(--color-gold-primary)] mt-0.5 shrink-0">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                        <polyline points="20 6 9 17 4 12" />
+                      </svg>
+                    </span>
+                    <span className="text-[var(--color-text-secondary)] text-sm leading-relaxed" style={{ fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }}>
+                      {item}
+                    </span>
+                  </li>
+                ))}
+              </ul>
 
               {/* Docs box */}
               <div className="border border-[var(--color-gold-muted)] rounded-sm p-5 space-y-2" style={{ background: 'rgba(201,169,97,0.04)' }}>

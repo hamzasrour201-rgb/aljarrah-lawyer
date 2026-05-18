@@ -87,7 +87,7 @@ export default function Footer() {
                 className="text-[var(--color-text-tertiary)] text-xs tracking-widest uppercase mt-0.5"
                 style={fontEn}
               >
-                {isAr ? 'محامي شرعي' : 'Sharia Lawyer'}
+                {isAr ? 'محامٍ شرعي ومحامي قانون أسرة' : 'Sharia Lawyer | Family Law Attorney'}
               </div>
             </div>
 

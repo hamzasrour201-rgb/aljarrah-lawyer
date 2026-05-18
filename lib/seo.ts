@@ -12,7 +12,7 @@ export const siteConfig = {
     facebook: 'https://www.facebook.com/aljarrahlawyer/',
     instagram: 'https://www.instagram.com/ahmed.aljarrah.75',
     twitter: 'https://x.com/aljarrahahmed1',
-    linkedin: 'https://jo.linkedin.com/in/ahmed-aljarrah-1ab1a9193',
+    linkedin: 'https://www.linkedin.com/in/%D8%A7%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%B4%D8%B1%D8%B9%D9%8A-%D8%B9%D9%85%D8%A7%D9%86-%D8%A5%D8%B1%D8%A8%D8%AF-%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD-b-1ab1a9193/',
     whatsapp: 'https://wa.me/962792101164',
   },
   address: {
@@ -67,7 +67,7 @@ export const personSchema = {
   '@type': 'Person',
   name: 'أحمد عوض الجراح',
   alternateName: 'Ahmad Awad Aljarrah',
-  jobTitle: 'محامي شرعي',
+  jobTitle: 'محامٍ شرعي ومحامي قانون أسرة',
   worksFor: {
     '@type': 'LegalService',
     name: siteConfig.name.ar,

@@ -1,7 +1,7 @@
 'use client'
 
 import { useRef } from 'react'
-import Link from 'next/link'
+import { Link } from '@/i18n/navigation'
 import { useTranslations, useLocale } from 'next-intl'
 import { motion, useInView } from 'framer-motion'
 import PageHero from '@/components/shared/PageHero'
@@ -9,9 +9,9 @@ import PageHero from '@/components/shared/PageHero'
 type Article = { slug: string; title: string; excerpt: string; category: string; readTime: string }
 
 const articleDates = [
-  '2026-03-12', '2026-02-28', '2026-02-15',
-  '2026-01-30', '2026-01-18', '2025-12-22',
-  '2025-12-10', '2025-11-25',
+  '2026-04-15',
+  '2026-03-20',
+  '2026-02-28',
 ]
 
 function ArticleCard({ article, index, date }: { article: Article; index: number; date: string }) {
@@ -91,7 +91,7 @@ export default function BlogPageClient() {
 
       <section className="py-20">
         <div className="container-brand px-6">
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {articles.map((article, i) => (
               <ArticleCard key={article.slug} article={article} index={i} date={articleDates[i]} />
             ))}

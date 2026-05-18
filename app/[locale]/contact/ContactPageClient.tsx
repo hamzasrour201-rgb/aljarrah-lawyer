@@ -119,7 +119,7 @@ export default function ContactPageClient() {
                     {isAr ? 'أحمد الجراح' : 'Ahmad Aljarrah'}
                   </p>
                   <p className="text-[var(--color-gold-primary)] text-xs tracking-wider uppercase" style={{ fontFamily: 'var(--font-inter)' }}>
-                    {isAr ? 'محامي شرعي' : 'Sharia Lawyer'}
+                    {isAr ? 'محامٍ شرعي ومحامي قانون أسرة' : 'Sharia Lawyer | Family Law Attorney'}
                   </p>
                 </div>
               </div>
@@ -256,19 +256,37 @@ export default function ContactPageClient() {
       {/* Map */}
       <section className="pb-24">
         <div className="container-brand px-6">
-          <h3 className="text-[var(--color-text-primary)] font-semibold mb-4" style={font}>{t('mapTitle')}</h3>
-          <div className="rounded-sm overflow-hidden border border-[var(--color-border)]" style={{ height: '380px' }}>
+          <h3 className="text-[var(--color-text-primary)] font-semibold mb-2" style={font}>{t('mapTitle')}</h3>
+          <p className="text-[var(--color-text-secondary)] text-sm mb-4" style={font}>
+            {isAr
+              ? 'إربد - دوار النسيم، بجانب مجمع الفارعة التجاري (المبنى القديم للمحكمة الشرعية)'
+              : 'Irbid - Al-Naseem Roundabout, next to Al-Faraa Commercial Complex (Old Sharia Court Building)'}
+          </p>
+          <a
+            href="https://maps.app.goo.gl/8aocpv7vMiAfvQrDA"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block rounded-sm overflow-hidden border border-[var(--color-border)] hover:border-[var(--color-gold-muted)] transition-colors duration-300"
+            style={{ height: '400px' }}
+            aria-label={isAr ? 'افتح الموقع في خرائط جوجل' : 'Open location in Google Maps'}
+          >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3374.5!2d35.85!3d32.5556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDMzJzIwLjIiTiAzNcKwNTEnMDAuMCJF!5e0!3m2!1sar!2sjo!4v1600000000000!5m2!1sar!2sjo&style=feature:all|element:geometry|color:0x0a0a0b&style=feature:all|element:labels.text.fill|color:0x9e9e9e"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3374.463935063862!2d35.847614976279015!3d32.555619673477615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151c741c79a2a78f%3A0x50c6f0c64843920a!2z2K/ZiNin2LEg2KfZhzY!5e0!3m2!1sar!2sjo!4v1716000000000!5m2!1sar!2sjo"
               width="100%"
               height="100%"
-              style={{ border: 0, filter: 'invert(90%) hue-rotate(180deg) brightness(0.9) contrast(0.9)' }}
+              style={{ border: 0, filter: 'invert(90%) hue-rotate(180deg) brightness(0.85) contrast(0.95)', pointerEvents: 'none' }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title={isAr ? 'موقع المكتب' : 'Office Location'}
+              title={isAr ? 'موقع المكتب - إربد دوار النسيم' : 'Office Location - Irbid Al-Naseem'}
             />
-          </div>
+          </a>
+          <p className="text-[var(--color-text-muted)] text-xs mt-2 flex items-center gap-1.5" style={font}>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+            {isAr ? 'انقر للفتح في خرائط جوجل' : 'Click to open in Google Maps'}
+          </p>
         </div>
       </section>
     </>
