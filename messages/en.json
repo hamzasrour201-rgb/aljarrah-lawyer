@@ -82,32 +82,59 @@
       "marriage": {
         "title": "Marriage & Divorce",
         "description": "Specialized legal representation in all marriage and divorce cases under Islamic law and Jordanian legislation",
-        "sub": ["Marital disputes & marriage proof", "No-fault divorce & Khul'", "Compensation for arbitrary divorce", "Revocation of divorce"]
+        "sub": [
+          "Marital disputes & marriage proof",
+          "No-fault divorce & Khul'",
+          "Compensation for arbitrary divorce",
+          "Revocation of divorce"
+        ]
       },
       "custody": {
         "title": "Alimony & Custody",
         "description": "Protecting the financial and custody rights of wives and children under Sharia law",
-        "sub": ["Spousal & child alimony", "Iddah & education alimony", "Child custody & visitation", "Travel permission for child"]
+        "sub": [
+          "Spousal & child alimony",
+          "Iddah & education alimony",
+          "Child custody & visitation",
+          "Travel permission for child"
+        ]
       },
       "inheritance": {
         "title": "Inheritance & Estates",
         "description": "Resolving inheritance disputes and distributing estates according to Islamic law",
-        "sub": ["Estate correction & distribution", "Estate debts & ownership proof", "Heir dispute resolution"]
+        "sub": [
+          "Estate correction & distribution",
+          "Estate debts & ownership proof",
+          "Heir dispute resolution"
+        ]
       },
       "dowry": {
         "title": "Dowry & Annulment",
         "description": "Claiming dowry rights and pursuing marriage annulment before Sharia courts",
-        "sub": ["Claiming prompt & deferred dowry", "Annulment for absence, harm, or defect", "Annulment for non-payment of dowry"]
+        "sub": [
+          "Claiming prompt & deferred dowry",
+          "Annulment for absence, harm, or defect",
+          "Annulment for non-payment of dowry"
+        ]
       },
       "wills": {
         "title": "Wills & Endowments",
         "description": "Proving wills and holding guardians accountable under Islamic principles",
-        "sub": ["Proving & contesting wills", "Guardian accountability & removal", "Endowment (Waqf) cases"]
+        "sub": [
+          "Proving & contesting wills",
+          "Guardian accountability & removal",
+          "Endowment (Waqf) cases"
+        ]
       },
       "other": {
         "title": "Additional Services",
         "description": "A range of legal services including mediation, consultations, and family procedures",
-        "sub": ["Family card & digital services", "Pre-marriage consultations", "Paternity proof", "Reconciliation & mediation sessions"]
+        "sub": [
+          "Family card & digital services",
+          "Pre-marriage consultations",
+          "Paternity proof",
+          "Reconciliation & mediation sessions"
+        ]
       }
     }
   },
@@ -359,29 +386,58 @@
     "readMore": "Read More",
     "minRead": "min read",
     "placeholderCta": "Need Legal Advice?",
-    "placeholderCtaText": "Contact us for a specialized consultation on your case.",
-    "placeholderCtaBtn": "Book Your Consultation",
+    "placeholderCtaText": "Contact us for specialized consultation on your case.",
+    "placeholderCtaBtn": "Book Consultation",
+    "filterAll": "All",
     "articles": [
       {
-        "slug": "marriage-contract-requirements-non-jordanians",
-        "title": "Marriage Contract Requirements & Procedures for Non-Jordanians in Jordan – Complete Legal Guide",
-        "excerpt": "A comprehensive guide to marriage contract requirements and procedures for foreigners and expats in Jordan under Islamic Sharia and Jordanian law.",
+        "slug": "foreign-marriage-jordan",
+        "title": "Marriage of Foreigners in Jordan – Requirements, Procedures & Required Documents (2026 Guide)",
+        "excerpt": "A complete guide to marriage for foreigners and expatriates in Jordan: legal requirements, required documents, and steps to register the contract at the Sharia Court.",
         "category": "Foreign Marriage",
-        "readTime": "10"
+        "readTime": "8"
       },
       {
-        "slug": "foreign-marriage-divorce-procedures-jordan",
-        "title": "Foreign Marriage and Divorce Procedures in Jordan – Expert Family Law Firm in Amman, Irbid, and Zarqa",
-        "excerpt": "Everything you need to know about marriage and divorce procedures for foreigners, expats, and residents in Jordan from a specialized legal perspective.",
-        "category": "Foreign Marriage & Divorce",
-        "readTime": "12"
+        "slug": "foreign-divorce-jordan",
+        "title": "Divorce of Foreigners and Expatriates in Jordan – Procedures, Rights & Enforcement of Judgments",
+        "excerpt": "Everything you need to know about divorce for foreigners, expatriates, and residents in Jordan: legal procedures, children's rights, and enforcement of foreign judgments.",
+        "category": "Foreign Divorce",
+        "readTime": "9"
+      },
+      {
+        "slug": "divorce-discord-conflict-jordan",
+        "title": "Separation for Discord and Conflict in Jordanian Law – Conditions, Procedures & Wife's Rights",
+        "excerpt": "A complete guide to the discord and conflict separation claim in Jordan: conditions for filing, the role of arbitrators, the wife's financial rights, and litigation steps.",
+        "category": "Discord Separation",
+        "readTime": "7"
+      },
+      {
+        "slug": "alimony-custody-jordan",
+        "title": "Alimony and Custody in Jordanian Law – Conditions, Amounts & Complete Procedures",
+        "excerpt": "A complete guide to alimony and custody in Jordan: types of alimony, how it is assessed, custody conditions, visitation and accompaniment rights.",
+        "category": "Alimony & Custody",
+        "readTime": "9"
       },
       {
         "slug": "arbitrary-divorce-compensation-jordan",
         "title": "Arbitrary Divorce Compensation in Jordan – When Does a Wife Deserve Compensation?",
-        "excerpt": "Learn about a woman's right to compensation for arbitrary divorce under Jordanian law, eligibility conditions, and how to claim it.",
+        "excerpt": "Learn about your right to compensation for arbitrary divorce in Jordan: eligibility conditions, how compensation is assessed, and the difference from iddah alimony.",
         "category": "Arbitrary Divorce",
-        "readTime": "11"
+        "readTime": "7"
+      },
+      {
+        "slug": "khula-marriage-proof-jordan",
+        "title": "Khula and Marriage Proof in Jordanian Law – Differences, Procedures & Rights",
+        "excerpt": "A complete guide to khula and marriage proof in Jordan: conditions of the khula claim, the difference from divorce, and procedures for proving an unregistered marriage.",
+        "category": "Khula & Marriage Proof",
+        "readTime": "7"
+      },
+      {
+        "slug": "inheritance-estate-distribution-jordan",
+        "title": "Inheritance and Estate Distribution in Jordan – A Complete Guide for Heirs and Rights",
+        "excerpt": "A complete guide to inheritance and estate distribution in Jordan: determining heirs, inheritance inventory, inheritance correction, and resolving disputes between heirs.",
+        "category": "Inheritance",
+        "readTime": "8"
       }
     ]
   },
@@ -498,7 +554,20 @@
     "services": "Services",
     "contactUs": "Contact Us",
     "areasTitle": "Serving All Jordan",
-    "areas": ["Irbid", "Amman", "Zarqa", "Tabarbour", "Abdoun", "Jubaiha", "Um Uthaina", "Abdali", "Khalda", "Sweifieh", "Tla' Al-Ali", "Al-Rabia"],
+    "areas": [
+      "Irbid",
+      "Amman",
+      "Zarqa",
+      "Tabarbour",
+      "Abdoun",
+      "Jubaiha",
+      "Um Uthaina",
+      "Abdali",
+      "Khalda",
+      "Sweifieh",
+      "Tla' Al-Ali",
+      "Al-Rabia"
+    ],
     "newsletter": "Subscribe for the latest legal insights",
     "newsletterPlaceholder": "Your email address",
     "subscribe": "Subscribe",

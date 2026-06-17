@@ -5,9 +5,9 @@ export const siteConfig = {
     ar: 'مكتب المحامي الشرعي أحمد الجراح',
     en: 'Ahmad Aljarrah Law Firm',
   },
-  url: 'https://aljarrahlawyer.com',
+  url: 'https://aljarrahlawyer76.com',
   phone: '+962792101164',
-  email: 'info@aljarrahlawyer.com',
+  email: 'info@aljarrahlawyer76.com',
   social: {
     facebook: 'https://www.facebook.com/aljarrahlawyer/',
     instagram: 'https://www.instagram.com/ahmed.aljarrah.75',

@@ -1,6 +1,6 @@
 'use client'
 
-import { useRef } from 'react'
+import { useRef, useState } from 'react'
 import { Link } from '@/i18n/navigation'
 import { useTranslations, useLocale } from 'next-intl'
 import { motion, useInView } from 'framer-motion'
@@ -9,9 +9,13 @@ import PageHero from '@/components/shared/PageHero'
 type Article = { slug: string; title: string; excerpt: string; category: string; readTime: string }
 
 const articleDates = [
-  '2026-04-15',
+  '2026-01-10',
+  '2026-01-25',
+  '2026-02-08',
+  '2026-02-22',
+  '2026-03-05',
   '2026-03-20',
-  '2026-02-28',
+  '2026-04-02',
 ]
 
 function ArticleCard({ article, index, date }: { article: Article; index: number; date: string }) {
@@ -23,7 +27,9 @@ function ArticleCard({ article, index, date }: { article: Article; index: number
   const font = { fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }
 
   const formatted = new Date(date).toLocaleDateString(isAr ? 'ar-JO' : 'en-US', {
-    year: 'numeric', month: 'long', day: 'numeric',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
   })
 
   return (
@@ -35,7 +41,7 @@ function ArticleCard({ article, index, date }: { article: Article; index: number
       className="group relative border border-[var(--color-border)] rounded-sm p-7 flex flex-col gap-4 hover:border-[var(--color-gold-muted)] transition-all duration-300 hover:shadow-[0_4px_24px_rgba(201,169,97,0.06)]"
       style={{ background: 'var(--color-surface)' }}
     >
-      {/* Category */}
+      {/* Category + read time */}
       <div className="flex items-center justify-between gap-3">
         <span
           className="inline-block px-3 py-1 text-[10px] font-semibold tracking-widest uppercase text-[var(--color-gold-primary)] border border-[var(--color-gold-muted)] rounded-sm"
@@ -72,7 +78,15 @@ function ArticleCard({ article, index, date }: { article: Article; index: number
           style={font}
         >
           {t('readMore')}
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className={isAr ? 'rotate-180' : ''}>
+          <svg
+            width="14"
+            height="14"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            className={isAr ? 'rotate-180' : ''}
+          >
             <path d="M5 12h14M12 5l7 7-7 7" />
           </svg>
         </Link>
@@ -83,7 +97,14 @@ function ArticleCard({ article, index, date }: { article: Article; index: number
 
 export default function BlogPageClient() {
   const t = useTranslations('blogPage')
+  const locale = useLocale()
+  const isAr = locale === 'ar'
+  const font = { fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }
   const articles = t.raw('articles') as Article[]
+  const [activeCategory, setActiveCategory] = useState<string>('all')
+
+  const categories = ['all', ...Array.from(new Set(articles.map((a) => a.category)))]
+  const filtered = activeCategory === 'all' ? articles : articles.filter((a) => a.category === activeCategory)
 
   return (
     <>
@@ -91,10 +112,40 @@ export default function BlogPageClient() {
 
       <section className="py-20">
         <div className="container-brand px-6">
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {articles.map((article, i) => (
-              <ArticleCard key={article.slug} article={article} index={i} date={articleDates[i]} />
+          {/* Category filter pills */}
+          <div className={`flex flex-wrap gap-2 mb-10 ${isAr ? 'justify-end' : 'justify-start'}`}>
+            {categories.map((cat) => (
+              <button
+                key={cat}
+                onClick={() => setActiveCategory(cat)}
+                className="px-4 py-1.5 text-xs font-semibold tracking-wider rounded-sm border transition-all duration-200"
+                style={{
+                  ...font,
+                  background: activeCategory === cat ? 'var(--color-gold-primary)' : 'transparent',
+                  color: activeCategory === cat ? '#0A0A0B' : 'var(--color-text-muted)',
+                  borderColor: activeCategory === cat ? 'var(--color-gold-primary)' : 'var(--color-border)',
+                  letterSpacing: isAr ? '0.04em' : '0.1em',
+                  textTransform: isAr ? 'none' : 'uppercase',
+                }}
+              >
+                {cat === 'all' ? t('filterAll') : cat}
+              </button>
             ))}
+          </div>
+
+          {/* Articles grid */}
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {filtered.map((article, i) => {
+              const originalIndex = articles.findIndex((a) => a.slug === article.slug)
+              return (
+                <ArticleCard
+                  key={article.slug}
+                  article={article}
+                  index={i}
+                  date={articleDates[originalIndex] ?? articleDates[0]}
+                />
+              )
+            })}
           </div>
         </div>
       </section>
