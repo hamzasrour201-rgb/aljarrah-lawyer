@@ -1099,6 +1099,589 @@ The Law Office of Sharia Lawyer Ahmad Aljarrah provides consultation and full re
 **Book your consultation with Lawyer Ahmad Aljarrah today.**`,
     },
   },
+
+  'how-to-choose-best-sharia-lawyer-jordan': {
+    ar: {
+      title: 'كيف تختار أفضل محامي شرعي في الأردن؟ دليلك لاختيار محامي أحوال شخصية موثوق',
+      metaDesc: 'هل تبحث عن أفضل محامي شرعي في الأردن؟ تعرف على معايير اختيار محامي أحوال شخصية موثوق في عمان وإربد والزرقاء. المحامي الشرعي أحمد الجراح - خبرة تتجاوز 24 عاماً.',
+      keywords: ['أفضل محامي شرعي في الأردن', 'أفضل محامي شرعي في عمان', 'أفضل محامي شرعي في إربد', 'أفضل محامي شرعي في الزرقاء', 'محامي أحوال شخصية', 'المحامي الشرعي أحمد الجراح', 'محامي شرعي في الأردن'],
+      readTime: '6 دقائق',
+      date: '2026-04-15',
+      category: 'اختيار محامي شرعي',
+      excerpt: 'هل تبحث عن أفضل محامي شرعي في الأردن؟ تعرف على المعايير العملية التي تساعدك على اختيار محامي أحوال شخصية موثوق في عمان وإربد والزرقاء.',
+      content: `# كيف تختار أفضل محامي شرعي في الأردن؟
+
+عند مواجهة قضية أحوال شخصية – سواء كانت طلاقاً أو نفقة أو حضانة أو ميراثاً – يصبح اختيار المحامي الشرعي المناسب قراراً مصيرياً يؤثّر مباشرةً على حقوقك ومستقبل أسرتك. فليس كل محامٍ قادراً على إدارة قضايا الأحوال الشخصية بالكفاءة المطلوبة، ولذلك من المهم أن تعرف كيف تختار أفضل محامي شرعي في الأردن.
+
+في هذا المقال نضع بين يديك المعايير العملية التي تساعدك على اتخاذ القرار الصحيح.
+
+## 1. الخبرة العملية في المحاكم الشرعية
+
+الخبرة هي المعيار الأول. فالمحامي الذي أمضى سنوات طويلة في المرافعة أمام المحاكم الشرعية يفهم تفاصيل الإجراءات ويعرف كيف يتعامل مع القضاة والخصوم. على سبيل المثال، يتمتّع المحامي الشرعي أحمد الجراح بخبرة تتجاوز 24 عاماً في العمل القانوني والقضائي، تشمل عمله كمدعٍ عام منتدب في قصر العدل ورئيس قسم في الشرطة القضائية، ما يمنحه فهماً عميقاً لكل جوانب القضية.
+
+## 2. التخصص الدقيق في الأحوال الشخصية
+
+قضايا الأحوال الشخصية لها طبيعتها الخاصة التي تختلف عن القضايا المدنية أو الجزائية. لذا احرص على اختيار محامٍ متخصص تحديداً في قضايا الزواج والطلاق والنفقة والحضانة والميراث، لا محامٍ عام يتعامل مع كل أنواع القضايا.
+
+## 3. السمعة والمصداقية
+
+ابحث عن آراء العملاء السابقين وتقييماتهم. المحامي الموثوق يبني سمعته على النتائج التي يحقّقها لموكليه والتزامه بالسرية التامة في التعامل مع قضاياهم الحسّاسة.
+
+## 4. القدرة على التواصل والمتابعة
+
+المحامي الجيّد هو من يبقيك على اطلاع دائم بتطورات قضيتك، ويشرح لك خياراتك القانونية بوضوح، ويكون متاحاً للرد على استفساراتك. تُعدّ إمكانية التواصل الفوري عبر الهاتف أو الواتساب ميزة مهمة توفّر عليك الوقت والجهد.
+
+## 5. الوضوح في الأتعاب
+
+المحامي المحترف يوضّح لك أتعابه بشفافية منذ البداية، دون مفاجآت لاحقة. اطلب فهماً كاملاً لتكلفة الخدمة القانونية قبل البدء.
+
+## 6. إمكانية التعامل عن بُعد
+
+في عصرنا الحالي، أصبحت إمكانية إرسال المستندات ومتابعة القضية إلكترونياً دون الحاجة للحضور الشخصي ميزة مهمة، خاصةً للمغتربين والمقيمين خارج مدينة المحكمة.
+
+## لماذا المحامي الشرعي أحمد الجراح؟
+
+يجمع مكتب المحامي الشرعي أحمد الجراح بين كل هذه المعايير:
+
+- خبرة تتجاوز 24 عاماً في العمل القانوني والقضائي.
+- تخصص دقيق في قضايا الأحوال الشخصية والشريعة الإسلامية.
+- تغطية لكامل محافظات المملكة: عمّان، إربد، الزرقاء وغيرها.
+- سرية تامة في التعامل مع قضايا الموكلين.
+- إمكانية التواصل والمتابعة الإلكترونية الكاملة.
+- خبرة خاصة في قضايا زواج وطلاق الأجانب والمغتربين.
+
+## خلاصة
+
+اختيار أفضل محامي شرعي في الأردن يعتمد على الخبرة والتخصص والمصداقية والقدرة على التواصل. ومتى توافرت هذه المعايير، تضمن لنفسك تمثيلاً قانونياً قوياً يحمي حقوقك.
+
+إذا كنت تبحث عن محامٍ شرعي موثوق في عمّان أو إربد أو الزرقاء، يسعد مكتب المحامي الشرعي أحمد الجراح بتقديم الاستشارة والتمثيل القانوني الكامل لقضيتك.
+
+**احجز استشارتك مع المحامي أحمد الجراح اليوم.**`,
+    },
+    en: {
+      title: 'How to Choose the Best Sharia Lawyer in Jordan? Your Guide to a Trusted Family Law Attorney',
+      metaDesc: 'Looking for the best Sharia lawyer in Jordan? Learn the criteria for choosing a trusted family law attorney in Amman, Irbid, and Zarqa. Sharia Lawyer Ahmad Aljarrah – over 24 years of experience.',
+      keywords: ['Best Sharia Lawyer Jordan', 'Sharia Lawyer Amman', 'Sharia Lawyer Irbid', 'Sharia Lawyer Zarqa', 'Family Law Solicitor in Jordan', 'Ahmad Aljarrah Lawyer'],
+      readTime: '6 min',
+      date: '2026-04-15',
+      category: 'Choosing a Lawyer',
+      excerpt: 'Looking for the best Sharia lawyer in Jordan? Learn the practical criteria that help you choose a trusted family law attorney in Amman, Irbid, and Zarqa.',
+      content: `# How to Choose the Best Sharia Lawyer in Jordan?
+
+When facing a personal status case – whether divorce, alimony, custody, or inheritance – choosing the right Sharia lawyer becomes a critical decision that directly affects your rights and your family's future. Not every lawyer is capable of managing personal status cases with the required competence, which is why it is important to know how to choose the best Sharia lawyer in Jordan.
+
+In this article, we present the practical criteria that help you make the right decision.
+
+## 1. Practical Experience in Sharia Courts
+
+Experience is the primary criterion. A lawyer who has spent long years pleading before Sharia Courts understands the details of procedures and knows how to deal with judges and opponents. For example, Sharia Lawyer Ahmad Aljarrah has over 24 years of legal and judicial experience, including his work as a delegated Public Prosecutor at the Palace of Justice and Head of Department at the Judicial Police, giving him a deep understanding of every aspect of a case.
+
+## 2. Precise Specialization in Personal Status
+
+Personal status cases have their own special nature that differs from civil or criminal cases. Therefore, be sure to choose a lawyer specialized specifically in marriage, divorce, alimony, custody, and inheritance cases, not a general lawyer who handles all types of cases.
+
+## 3. Reputation and Credibility
+
+Look for the opinions and evaluations of previous clients. A trusted lawyer builds their reputation on the results they achieve for their clients and their commitment to complete confidentiality in handling sensitive cases.
+
+## 4. Communication and Follow-up Ability
+
+A good lawyer keeps you constantly informed of developments in your case, clearly explains your legal options, and is available to answer your inquiries. The ability to communicate immediately by phone or WhatsApp is an important feature that saves you time and effort.
+
+## 5. Clarity in Fees
+
+A professional lawyer transparently explains their fees from the beginning, without later surprises. Request a complete understanding of the cost of the legal service before starting.
+
+## 6. Remote Handling Capability
+
+In our current era, the ability to send documents and follow up on a case electronically without the need for personal attendance has become an important feature, especially for expatriates and those residing outside the court's city.
+
+## Why Sharia Lawyer Ahmad Aljarrah?
+
+The Law Office of Sharia Lawyer Ahmad Aljarrah combines all these criteria:
+
+- Over 24 years of legal and judicial experience.
+- Precise specialization in personal status and Islamic Sharia cases.
+- Coverage of all governorates of the Kingdom: Amman, Irbid, Zarqa, and others.
+- Complete confidentiality in handling clients' cases.
+- Full electronic communication and follow-up capability.
+- Special expertise in marriage and divorce cases for foreigners and expatriates.
+
+## Conclusion
+
+Choosing the best Sharia lawyer in Jordan depends on experience, specialization, credibility, and communication ability. When these criteria are met, you ensure strong legal representation that protects your rights.
+
+If you are looking for a trusted Sharia lawyer in Amman, Irbid, or Zarqa, the Law Office of Sharia Lawyer Ahmad Aljarrah is pleased to provide consultation and complete legal representation for your case.
+
+**Book your consultation with Lawyer Ahmad Aljarrah today.**`,
+    },
+  },
+
+  'sharia-lawyer-consultation-amman-irbid-zarqa': {
+    ar: {
+      title: 'محامي شرعي في عمان وإربد والزرقاء – استشارة قانونية فورية في قضايا الأحوال الشخصية',
+      metaDesc: 'تبحث عن محامي شرعي في عمان أو إربد أو الزرقاء؟ المحامي الشرعي أحمد الجراح يقدم استشارات فورية في الطلاق والنفقة والحضانة والميراث وزواج الأجانب. تواصل الآن.',
+      keywords: ['محامي شرعي في عمان', 'محامي شرعي إربد', 'محامي شرعي الزرقاء', 'محامي شرعي في الأردن', 'استشارة قانونية شرعية', 'المحامي الشرعي أحمد الجراح', 'محامي أحوال شخصية'],
+      readTime: '6 دقائق',
+      date: '2026-04-22',
+      category: 'استشارة قانونية',
+      excerpt: 'تبحث عن محامي شرعي في عمان أو إربد أو الزرقاء؟ المحامي الشرعي أحمد الجراح يقدم استشارات فورية في الطلاق والنفقة والحضانة والميراث وزواج الأجانب.',
+      content: `# محامي شرعي في عمان وإربد والزرقاء – استشارة قانونية فورية
+
+عندما تواجه قضية تتعلّق بالأحوال الشخصية، فإن الوصول السريع إلى محامٍ شرعي متخصص وموثوق يمكن أن يوفّر عليك الكثير من الوقت والقلق. وسواء كنت في عمّان أو إربد أو الزرقاء، فإن مكتب المحامي الشرعي أحمد الجراح يقدّم استشارات قانونية دقيقة وتمثيلاً كاملاً أمام كافة المحاكم الشرعية في المملكة.
+
+في هذا المقال نستعرض الخدمات المتاحة وكيفية الحصول على استشارة قانونية سريعة.
+
+## متى تحتاج إلى محامٍ شرعي؟
+
+تحتاج إلى استشارة محامٍ شرعي في العديد من الحالات، منها:
+
+- عند التفكير في الطلاق أو الخلع أو التفريق.
+- عند المطالبة بالنفقة أو تعديلها.
+- في قضايا حضانة الأطفال وحق المشاهدة.
+- عند الرغبة بتوثيق عقد زواج أو إثباته.
+- في قضايا الميراث وتقسيم التركات.
+- عند الحاجة لزواج أو طلاق الأجانب والمغتربين.
+
+## الخدمات القانونية التي نقدّمها
+
+يغطّي مكتب المحامي الشرعي أحمد الجراح مجموعة واسعة من قضايا الأحوال الشخصية:
+
+- **قضايا الطلاق والتفريق:** الطلاق التعسفي، الخلع، الشقاق والنزاع، إثبات الطلاق.
+- **قضايا النفقة:** نفقة الزوجة والأطفال، نفقة العدة، نفقة التعليم.
+- **قضايا الحضانة:** الحضانة، الضم، حق المشاهدة والاصطحاب.
+- **قضايا المهر:** المطالبة بالمهر المعجّل والمؤجّل.
+- **قضايا الإرث:** حصر الإرث، تقسيم التركات، تصحيح الإرث.
+- **زواج وطلاق الأجانب:** توثيق العقود، إجراءات الطلاق، تنفيذ الأحكام الأجنبية.
+
+## التغطية الجغرافية
+
+نخدم موكّلينا في كافة محافظات المملكة، مع تركيز خاص على:
+
+- **عمّان:** بكل مناطقها بما فيها تلاع العلي، خلدا، عبدون، الجبيهة، طبربور.
+- **إربد:** المكتب الرئيسي وكافة مناطق المحافظة.
+- **الزرقاء:** ومناطقها المختلفة.
+
+كما نتابع القضايا في باقي المحافظات حسب الحاجة.
+
+## كيف تحصل على استشارة قانونية؟
+
+نحرص على تسهيل الوصول إلينا عبر عدة قنوات:
+
+1. **التواصل المباشر عبر الهاتف أو الواتساب** لعرض موجز عن قضيتك.
+2. **إرسال المستندات إلكترونياً** بسرية تامة دون الحاجة للحضور الشخصي.
+3. **حجز موعد** لمقابلة شخصية عند الحاجة.
+
+## ميزة التواصل الإلكتروني
+
+من أبرز ما يميّز خدماتنا إمكانية متابعة قضيتك إلكترونياً بالكامل. يمكنك إرسال مستنداتك الشرعية والقانونية بموثوقية عالية دون الحاجة للحضور إلى المكتب، ما يوفّر عليك الوقت والجهد، خاصةً إذا كنت مغترباً أو مقيماً خارج مدينة المحكمة.
+
+## لماذا تختار مكتبنا؟
+
+- خبرة تتجاوز 24 عاماً في العمل القانوني والقضائي.
+- تخصص دقيق في قضايا الأحوال الشخصية.
+- سرية تامة واحترافية في التعامل.
+- استجابة سريعة لاستفسارات الموكّلين.
+- خبرة خاصة في قضايا زواج وطلاق الأجانب.
+
+## خلاصة
+
+الوصول إلى محامٍ شرعي متخصص في عمّان أو إربد أو الزرقاء لم يعد صعباً. ومع مكتب المحامي الشرعي أحمد الجراح، تحصل على استشارة دقيقة وتمثيل قانوني قوي يحمي حقوقك.
+
+**احجز استشارتك مع المحامي أحمد الجراح اليوم للحصول على الدعم القانوني الذي تستحقه.**`,
+    },
+    en: {
+      title: 'Sharia Lawyer in Amman, Irbid & Zarqa – Immediate Legal Consultation in Personal Status Cases',
+      metaDesc: 'Looking for a Sharia lawyer in Amman, Irbid, or Zarqa? Sharia Lawyer Ahmad Aljarrah provides immediate consultations in divorce, alimony, custody, inheritance, and foreign marriage. Contact now.',
+      keywords: ['Sharia Lawyer Amman', 'Sharia Lawyer Irbid', 'Sharia Lawyer Zarqa', 'Sharia Lawyer Jordan', 'Family Law Solicitor in Jordan', 'Ahmad Aljarrah Lawyer'],
+      readTime: '6 min',
+      date: '2026-04-22',
+      category: 'Legal Consultation',
+      excerpt: 'Looking for a Sharia lawyer in Amman, Irbid, or Zarqa? Sharia Lawyer Ahmad Aljarrah provides immediate consultations in divorce, alimony, custody, inheritance, and foreign marriage.',
+      content: `# Sharia Lawyer in Amman, Irbid & Zarqa – Immediate Legal Consultation
+
+When you face a case related to personal status, quick access to a specialized and trusted Sharia lawyer can save you a great deal of time and worry. Whether you are in Amman, Irbid, or Zarqa, the Law Office of Sharia Lawyer Ahmad Aljarrah provides precise legal consultations and full representation before all Sharia Courts in the Kingdom.
+
+In this article, we review the available services and how to obtain quick legal consultation.
+
+## When Do You Need a Sharia Lawyer?
+
+You need to consult a Sharia lawyer in many situations, including:
+
+- When considering divorce, khula, or separation.
+- When claiming or modifying alimony.
+- In child custody and visitation cases.
+- When wishing to document or prove a marriage contract.
+- In inheritance and estate distribution cases.
+- When in need of marriage or divorce for foreigners and expatriates.
+
+## The Legal Services We Provide
+
+The Law Office of Sharia Lawyer Ahmad Aljarrah covers a wide range of personal status cases:
+
+- **Divorce and separation cases:** Arbitrary divorce, khula, discord and conflict, divorce affirmation.
+- **Alimony cases:** Wife and children alimony, iddah alimony, education alimony.
+- **Custody cases:** Custody, inclusion, visitation and accompaniment rights.
+- **Dowry cases:** Claiming advance and deferred dowry.
+- **Inheritance cases:** Inheritance inventory, estate distribution, inheritance correction.
+- **Foreign marriage and divorce:** Contract documentation, divorce procedures, enforcement of foreign judgments.
+
+## Geographic Coverage
+
+We serve our clients in all governorates of the Kingdom, with special focus on:
+
+- **Amman:** All its areas including Tla' Al-Ali, Khalda, Abdoun, Al-Jubaiha, Tabarbour.
+- **Irbid:** The main office and all areas of the governorate.
+- **Zarqa:** And its various areas.
+
+We also follow up cases in the remaining governorates as needed.
+
+## How to Obtain a Legal Consultation?
+
+We ensure easy access to us through several channels:
+
+1. **Direct contact via phone or WhatsApp** to present a brief about your case.
+2. **Sending documents electronically** with complete confidentiality without the need for personal attendance.
+3. **Booking an appointment** for a personal meeting when needed.
+
+## The Advantage of Electronic Communication
+
+Among the most prominent features of our services is the ability to follow up your case entirely electronically. You can send your legal and Sharia documents with high reliability without the need to attend the office, saving you time and effort, especially if you are an expatriate or residing outside the court's city.
+
+## Why Choose Our Office?
+
+- Over 24 years of legal and judicial experience.
+- Precise specialization in personal status cases.
+- Complete confidentiality and professionalism.
+- Quick response to clients' inquiries.
+- Special expertise in marriage and divorce cases for foreigners.
+
+## Conclusion
+
+Accessing a specialized Sharia lawyer in Amman, Irbid, or Zarqa is no longer difficult. With the Law Office of Sharia Lawyer Ahmad Aljarrah, you get precise consultation and strong legal representation that protects your rights.
+
+**Book your consultation with Lawyer Ahmad Aljarrah today to get the legal support you deserve.**`,
+    },
+  },
+
+  'child-visitation-rights-jordan': {
+    ar: {
+      title: 'حق المشاهدة والاصطحاب والاستزارة في الأردن – حقوق رؤية الأطفال بعد الطلاق',
+      metaDesc: 'دليل شامل لحق المشاهدة والاصطحاب والاستزارة في الأردن بعد الطلاق. تعرف على حقوقك في رؤية أطفالك مع المحامي الشرعي أحمد الجراح في عمان وإربد والزرقاء.',
+      keywords: ['محامي رؤية واصطحاب', 'محامي حضانة', 'محامي شرعي في الأردن', 'المشاهدة والاصطحاب', 'حقوق رؤية الأطفال', 'المحامي الشرعي أحمد الجراح', 'محامي أحوال شخصية'],
+      readTime: '6 دقائق',
+      date: '2026-05-05',
+      category: 'حق المشاهدة',
+      excerpt: 'دليل شامل لحق المشاهدة والاصطحاب والاستزارة في الأردن بعد الطلاق. تعرف على حقوقك في رؤية أطفالك وكيفية تنظيمها والمطالبة بها قانونياً.',
+      content: `# حق المشاهدة والاصطحاب والاستزارة في الأردن
+
+بعد الطلاق، يبقى حق الوالد غير الحاضن في رؤية أطفاله والتواصل معهم من أهم الحقوق التي يكفلها القانون الأردني، حفاظاً على الرابطة الأسرية وحماية للمصلحة النفسية للأطفال. ويميّز القانون بين ثلاثة أشكال لهذا الحق: المشاهدة والاصطحاب والاستزارة.
+
+في هذا المقال نوضّح هذه الحقوق وكيفية تنظيمها والمطالبة بها.
+
+## ما الفرق بين المشاهدة والاصطحاب والاستزارة؟
+
+يميّز القانون الأردني بين ثلاثة أشكال لحق رؤية الأطفال:
+
+- **المشاهدة:** لقاء الوالد غير الحاضن بأطفاله في مكان وزمان محددين تُقرّرهما المحكمة، دون أخذهم خارج مكان اللقاء.
+- **الاصطحاب:** أخذ الأطفال لفترة زمنية محددة (يوم كامل مثلاً) ثم إعادتهم إلى الحاضن.
+- **الاستزارة:** زيارة الأطفال لدى الوالد غير الحاضن ومبيتهم عنده لفترة معيّنة، وهي أوسع الحقوق.
+
+## من له حق المشاهدة؟
+
+حق المشاهدة والاصطحاب لا يقتصر على الأب أو الأم غير الحاضن، بل يمتدّ في كثير من الأحوال إلى الأجداد، حمايةً لصلة الرحم والحفاظ على العلاقة بين الأطفال وعائلتهم الممتدة.
+
+## كيف تُنظّم المحكمة حق المشاهدة؟
+
+عند رفع دعوى المشاهدة، تراعي المحكمة عدة عوامل:
+
+- عمر الأطفال واحتياجاتهم.
+- المسافة بين محل إقامة الطرفين.
+- ظروف كل من الحاضن والطرف الآخر.
+- المصلحة الفضلى للأطفال قبل كل شيء.
+
+وتحدّد المحكمة مكان اللقاء وزمانه ومدّته، وقد يكون ذلك في مركز مختص أو مكان محايد.
+
+## إجراءات رفع دعوى المشاهدة
+
+1. **تقديم لائحة الدعوى** أمام المحكمة الشرعية المختصة.
+2. **تبليغ الطرف الحاضن** بموعد الجلسة.
+3. **عقد الجلسات** والاستماع للطرفين.
+4. **صدور الحكم** بتنظيم حق المشاهدة أو الاصطحاب أو الاستزارة.
+
+## عند الامتناع عن تنفيذ حق المشاهدة
+
+إذا امتنع الطرف الحاضن عن تمكين الطرف الآخر من رؤية الأطفال رغم صدور الحكم، يمكن اللجوء إلى دائرة التنفيذ لإجبار الطرف الممتنع على تنفيذ الحكم. وهنا تبرز أهمية وجود محامٍ متخصص يتابع إجراءات التنفيذ.
+
+## نصائح عملية
+
+- التزم بمواعيد المشاهدة المحدّدة في الحكم.
+- وثّق أي امتناع أو مخالفة من الطرف الآخر.
+- ضع مصلحة أطفالك النفسية فوق أي خلاف مع الطرف الآخر.
+- استشر محامياً عند مواجهة أي عقبة في تنفيذ حقك.
+
+## لماذا تحتاج محامياً شرعياً متخصصاً؟
+
+يساعدك المحامي الشرعي المتخصص على:
+
+- إعداد لائحة دعوى مشاهدة دقيقة تراعي ظروفك.
+- المطالبة بالحق المناسب (مشاهدة، اصطحاب، أو استزارة).
+- متابعة تنفيذ الحكم عند امتناع الطرف الآخر.
+- حماية علاقتك بأطفالك وصلتك بهم.
+
+## خلاصة
+
+حق المشاهدة والاصطحاب والاستزارة حق أصيل يحمي علاقة الوالد بأطفاله بعد الطلاق. ووجود محامٍ شرعي متمرّس بجانبك يضمن لك الحصول على هذا الحق وتنفيذه بالشكل الصحيح.
+
+يقدّم مكتب المحامي الشرعي أحمد الجراح الاستشارة والتمثيل الكامل في قضايا المشاهدة وحضانة الأطفال في عمّان وإربد والزرقاء.
+
+**احجز استشارتك مع المحامي أحمد الجراح اليوم.**`,
+    },
+    en: {
+      title: 'Visitation, Accompaniment & Visiting Rights in Jordan – Child Access Rights After Divorce',
+      metaDesc: 'A complete guide to visitation, accompaniment, and visiting rights in Jordan after divorce. Learn your rights to see your children with Sharia Lawyer Ahmad Aljarrah in Amman, Irbid, and Zarqa.',
+      keywords: ['Child Visitation Lawyer Jordan', 'Custody Lawyer Jordan', 'Sharia Lawyer Jordan', 'Child Access Rights', 'Family Law Solicitor in Jordan', 'Ahmad Aljarrah Lawyer'],
+      readTime: '6 min',
+      date: '2026-05-05',
+      category: 'Visitation Rights',
+      excerpt: 'A complete guide to visitation, accompaniment, and visiting rights in Jordan after divorce. Learn your rights to see your children and how to organize and claim them legally.',
+      content: `# Visitation, Accompaniment & Visiting Rights in Jordan
+
+After divorce, the right of the non-custodial parent to see and communicate with their children remains one of the most important rights guaranteed by Jordanian law, preserving the family bond and protecting the psychological interest of the children. The law distinguishes between three forms of this right: visitation, accompaniment, and visiting.
+
+In this article, we explain these rights and how to organize and claim them.
+
+## What Is the Difference Between Visitation, Accompaniment, and Visiting?
+
+Jordanian law distinguishes between three forms of the child access right:
+
+- **Visitation:** The non-custodial parent meeting their children at a specific place and time determined by the court, without taking them outside the meeting place.
+- **Accompaniment:** Taking the children for a specific period of time (a full day, for example) and then returning them to the custodian.
+- **Visiting (overnight):** The children visiting the non-custodial parent and staying overnight for a certain period, which is the broadest of these rights.
+
+## Who Has the Right to Visitation?
+
+The right of visitation and accompaniment is not limited to the non-custodial father or mother, but in many cases extends to grandparents, protecting kinship ties and preserving the relationship between children and their extended family.
+
+## How Does the Court Organize the Visitation Right?
+
+When a visitation claim is filed, the court takes several factors into account:
+
+- The children's age and needs.
+- The distance between the residences of the two parties.
+- The circumstances of both the custodian and the other party.
+- The best interest of the children above all.
+
+The court determines the place, time, and duration of the meeting, which may be at a specialized center or a neutral place.
+
+## Procedures for Filing a Visitation Claim
+
+1. **Filing the statement of claim** before the competent Sharia Court.
+2. **Notifying the custodial party** of the hearing date.
+3. **Holding hearings** and listening to both parties.
+4. **Issuing the ruling** organizing the visitation, accompaniment, or visiting right.
+
+## When Refusing to Implement the Visitation Right
+
+If the custodial party refuses to enable the other party to see the children despite the issuance of a ruling, one can resort to the enforcement department to compel the refusing party to implement the ruling. Here the importance of having a specialized lawyer who follows up on enforcement procedures becomes clear.
+
+## Practical Tips
+
+- Adhere to the visitation times specified in the ruling.
+- Document any refusal or violation by the other party.
+- Place your children's psychological interest above any dispute with the other party.
+- Consult a lawyer when facing any obstacle in implementing your right.
+
+## Why Do You Need a Specialized Sharia Lawyer?
+
+A specialized Sharia lawyer helps you:
+
+- Prepare a precise visitation claim that takes your circumstances into account.
+- Claim the appropriate right (visitation, accompaniment, or visiting).
+- Follow up implementation of the ruling when the other party refuses.
+- Protect your relationship and bond with your children.
+
+## Conclusion
+
+The right of visitation, accompaniment, and visiting is a fundamental right that protects the parent's relationship with their children after divorce. Having an experienced Sharia lawyer by your side ensures you obtain and implement this right correctly.
+
+The Law Office of Sharia Lawyer Ahmad Aljarrah provides consultation and full representation in visitation and child custody cases in Amman, Irbid, and Zarqa.
+
+**Book your consultation with Lawyer Ahmad Aljarrah today.**`,
+    },
+  },
+
+  'children-education-relatives-alimony-jordan': {
+    ar: {
+      title: 'نفقة الأبناء والتعليم والأقارب في القانون الأردني – الشروط والإجراءات الكاملة',
+      metaDesc: 'دليل شامل لنفقة الأبناء والتعليم والأقارب في الأردن: شروط الاستحقاق، كيفية التقدير، ونفقة التعليم الجامعي. محامي نفقة متخصص - المحامي الشرعي أحمد الجراح في عمان وإربد والزرقاء.',
+      keywords: ['محامي نفقة', 'نفقة الأبناء', 'نفقة التعليم', 'نفقة الأقارب', 'محامي شرعي في الأردن', 'المحامي الشرعي أحمد الجراح', 'محامي أحوال شخصية'],
+      readTime: '7 دقائق',
+      date: '2026-05-15',
+      category: 'نفقة الأبناء والتعليم',
+      excerpt: 'دليل شامل لنفقة الأبناء والتعليم والأقارب في الأردن: شروط الاستحقاق، كيفية التقدير، ونفقة التعليم الجامعي.',
+      content: `# نفقة الأبناء والتعليم والأقارب في القانون الأردني
+
+النفقة حق أساسي كفله القانون الأردني لحماية الأبناء والأقارب المحتاجين. ولا تقتصر النفقة على المأكل والملبس، بل تمتدّ لتشمل التعليم والعلاج والمسكن. وفهم أنواع النفقة وشروط استحقاقها يساعدك على المطالبة بحقك أو حق أبنائك بشكل صحيح.
+
+في هذا المقال نوضّح نفقة الأبناء والتعليم والأقارب بالتفصيل.
+
+## نفقة الأبناء
+
+تجب نفقة الأبناء على الأب، وتشمل كل ما يحتاجه الأطفال من مأكل وملبس ومسكن وعلاج وتعليم. وتستمرّ هذه النفقة:
+
+- **للذكور:** حتى بلوغهم السن الذي يستطيعون فيه الكسب، ما لم يكونوا طلبة علم.
+- **للإناث:** حتى الزواج أو حتى يكون لهنّ دخل مستقلّ.
+
+وتُقدّر النفقة بحسب حالة الأب المالية ومستوى معيشة الأسرة.
+
+## نفقة التعليم
+
+من أهمّ جوانب نفقة الأبناء نفقة التعليم، وتشمل:
+
+- مصاريف التعليم المدرسي بمراحله المختلفة.
+- مصاريف التعليم الجامعي للأبناء القادرين على التحصيل العلمي.
+- الكتب والمستلزمات الدراسية.
+- المواصلات المتعلّقة بالدراسة.
+
+ويستمرّ الأب ملزماً بنفقة التعليم طالما كان الابن منتظماً في دراسته وقادراً على التحصيل، وفق ضوابط يقدّرها القانون.
+
+## نفقة الأقارب
+
+لا تقتصر النفقة على الأبناء، بل تمتدّ في القانون الأردني إلى الأقارب المحتاجين، ومنها:
+
+- **نفقة الوالدين:** تجب على الأبناء الموسرين لوالديهم المحتاجين.
+- **نفقة الأقارب الآخرين:** كالإخوة وغيرهم في حالات معيّنة يحدّدها القانون.
+
+وتُشترط لنفقة الأقارب حاجة المستحقّ ويسار الملزَم بالنفقة.
+
+## كيف تُقدّر النفقة؟
+
+تعتمد المحكمة في تقدير النفقة على:
+
+- دخل الملزَم بالنفقة وقدرته المالية.
+- حاجة المستحقّ للنفقة.
+- مستوى المعيشة المعتاد.
+- عدد المستحقّين.
+
+## تعديل النفقة
+
+النفقة ليست مبلغاً ثابتاً إلى الأبد، بل يمكن طلب تعديلها (زيادة أو تخفيض) عند تغيّر الظروف، كزيادة دخل الأب أو ارتفاع تكاليف المعيشة أو تغيّر حاجات الأبناء.
+
+## عند الامتناع عن دفع النفقة
+
+إذا امتنع الملزَم عن دفع النفقة رغم الحكم، يمكن اللجوء إلى دائرة التنفيذ لإجباره على الدفع، وقد تصل الإجراءات إلى الحبس في حالات الامتناع المتعمّد مع القدرة على الدفع.
+
+## نصائح عملية
+
+- احتفظ بما يثبت دخل الملزَم بالنفقة.
+- وثّق نفقاتك الفعلية على الأبناء والتعليم.
+- بادر بطلب النفقة فور نشوء الحاجة إليها.
+- استشر محامياً لتقدير المبلغ العادل والمطالبة به.
+
+## لماذا تحتاج محامياً شرعياً متخصصاً؟
+
+يساعدك المحامي الشرعي المتخصص على:
+
+- تقدير النفقة العادلة وإثباتها أمام المحكمة.
+- المطالبة بنفقة التعليم بمراحلها المختلفة.
+- متابعة تنفيذ حكم النفقة عند الامتناع.
+- التعامل مع طلبات التعديل بزيادة أو تخفيض.
+
+## خلاصة
+
+النفقة بأنواعها – للأبناء والتعليم والأقارب – حق أساسي يحميه القانون الأردني. ووجود محامٍ شرعي متمرّس بجانبك يضمن لك الحصول على النفقة العادلة وتنفيذها بالشكل الصحيح.
+
+يقدّم مكتب المحامي الشرعي أحمد الجراح الاستشارة والتمثيل الكامل في قضايا النفقة في عمّان وإربد والزرقاء.
+
+**احجز استشارتك مع المحامي أحمد الجراح اليوم.**`,
+    },
+    en: {
+      title: 'Children, Education & Relatives\' Alimony in Jordanian Law – Conditions & Complete Procedures',
+      metaDesc: 'A complete guide to children, education, and relatives\' alimony in Jordan: eligibility conditions, how it is assessed, and university education alimony. Expert alimony lawyer – Sharia Lawyer Ahmad Aljarrah in Amman, Irbid, and Zarqa.',
+      keywords: ['Alimony Lawyer Jordan', 'Children Alimony', 'Education Alimony', 'Relatives Alimony', 'Sharia Lawyer Jordan', 'Family Law Solicitor in Jordan', 'Ahmad Aljarrah Lawyer'],
+      readTime: '7 min',
+      date: '2026-05-15',
+      category: 'Children & Education Alimony',
+      excerpt: 'A complete guide to children, education, and relatives\' alimony in Jordan: eligibility conditions, how it is assessed, and university education alimony.',
+      content: `# Children, Education & Relatives' Alimony in Jordanian Law
+
+Alimony is a fundamental right guaranteed by Jordanian law to protect children and relatives in need. Alimony is not limited to food and clothing, but extends to include education, medical care, and housing. Understanding the types of alimony and the conditions for entitlement helps you claim your right or your children's right correctly.
+
+In this article, we explain children, education, and relatives' alimony in detail.
+
+## Children's Alimony
+
+Children's alimony is owed by the father, and includes everything the children need in terms of food, clothing, housing, medical care, and education. This alimony continues:
+
+- **For males:** Until they reach the age at which they can earn, unless they are students.
+- **For females:** Until marriage or until they have an independent income.
+
+Alimony is assessed according to the father's financial situation and the family's standard of living.
+
+## Education Alimony
+
+One of the most important aspects of children's alimony is education alimony, which includes:
+
+- School education expenses at various stages.
+- University education expenses for children capable of academic achievement.
+- Books and school supplies.
+- Transportation related to study.
+
+The father remains obligated to pay education alimony as long as the child is regularly enrolled in their studies and capable of achievement, according to controls assessed by law.
+
+## Relatives' Alimony
+
+Alimony is not limited to children, but extends in Jordanian law to relatives in need, including:
+
+- **Parents' alimony:** Owed by financially capable children to their needy parents.
+- **Other relatives' alimony:** Such as siblings and others in certain cases specified by law.
+
+Relatives' alimony requires the need of the entitled person and the financial capacity of the obligated person.
+
+## How Is Alimony Assessed?
+
+The court relies on the following in assessing alimony:
+
+- The income and financial capacity of the obligated person.
+- The need of the entitled person for alimony.
+- The customary standard of living.
+- The number of those entitled.
+
+## Modifying Alimony
+
+Alimony is not a fixed amount forever; its modification (increase or decrease) can be requested when circumstances change, such as an increase in the father's income, a rise in living costs, or a change in the children's needs.
+
+## When Refusing to Pay Alimony
+
+If the obligated person refuses to pay alimony despite the ruling, one can resort to the enforcement department to compel them to pay, and procedures may reach imprisonment in cases of deliberate refusal with the ability to pay.
+
+## Practical Tips
+
+- Keep what proves the income of the person obligated to pay alimony.
+- Document your actual expenses on children and education.
+- Promptly request alimony as soon as the need for it arises.
+- Consult a lawyer to assess the fair amount and claim it.
+
+## Why Do You Need a Specialized Sharia Lawyer?
+
+A specialized Sharia lawyer helps you:
+
+- Assess fair alimony and prove it before the court.
+- Claim education alimony at its various stages.
+- Follow up implementation of the alimony ruling in case of refusal.
+- Handle modification requests for increase or decrease.
+
+## Conclusion
+
+Alimony in its types – for children, education, and relatives – is a fundamental right protected by Jordanian law. Having an experienced Sharia lawyer by your side ensures you obtain fair alimony and implement it correctly.
+
+The Law Office of Sharia Lawyer Ahmad Aljarrah provides consultation and full representation in alimony cases in Amman, Irbid, and Zarqa.
+
+**Book your consultation with Lawyer Ahmad Aljarrah today.**`,
+    },
+  },
+
 }
 
 export function extractH2Headings(content: string): string[] {

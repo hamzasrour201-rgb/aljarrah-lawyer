@@ -16,6 +16,10 @@ const articleDates = [
   '2026-03-05',
   '2026-03-20',
   '2026-04-02',
+  '2026-04-15',
+  '2026-04-22',
+  '2026-05-05',
+  '2026-05-15',
 ]
 
 function ArticleCard({ article, index, date }: { article: Article; index: number; date: string }) {
