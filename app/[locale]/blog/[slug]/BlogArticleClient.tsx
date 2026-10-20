@@ -291,7 +291,7 @@ export default function BlogArticleClient({ slug }: { slug: string }) {
 
   return (
     <>
-      <PageHero label={data.category} title={data.title} subtitle={`${data.readTime} ${t('minRead')}`} />
+      <PageHero label={data.category} title={data.title} subtitle={`${(data.readTime.match(/\d+/) ?? [data.readTime])[0]} ${t('minRead')}`} />
 
       <section className="py-16">
         <div className="container-brand px-6">
