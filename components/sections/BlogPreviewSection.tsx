@@ -3,6 +3,7 @@
 import { useRef } from 'react'
 import { useTranslations, useLocale } from 'next-intl'
 import { motion, useInView } from 'framer-motion'
+import { getArticleList } from '@/lib/articleContent'
 
 export default function BlogPreviewSection() {
   const t = useTranslations('blog')
@@ -11,13 +12,7 @@ export default function BlogPreviewSection() {
   const ref = useRef<HTMLElement>(null)
   const inView = useInView(ref, { once: true, margin: '-80px' })
 
-  const articles = t.raw('articles') as Array<{
-    slug: string
-    title: string
-    excerpt: string
-    category: string
-    readTime: string
-  }>
+  const articles = getArticleList(isAr ? 'ar' : 'en').slice(0, 3)
 
   return (
     <section ref={ref} className="section-padding">

@@ -1,3 +1,5 @@
+import posts from './posts.json'
+
 export type ArticleLocaleData = {
   title: string
   metaDesc: string
@@ -14,7 +16,7 @@ export type ArticleEntry = {
   en: ArticleLocaleData
 }
 
-export const articles: Record<string, ArticleEntry> = {
+const baseArticles: Record<string, ArticleEntry> = {
   'foreign-marriage-jordan': {
     ar: {
       title: 'زواج الأجانب في الأردن – الشروط والإجراءات والوثائق المطلوبة (دليل 2026)',
@@ -1682,6 +1684,21 @@ The Law Office of Sharia Lawyer Ahmad Aljarrah provides consultation and full re
     },
   },
 
+}
+
+// New monthly SEO articles live in lib/posts.json (same shape as above), added by Hook's publishing tool.
+export const articles: Record<string, ArticleEntry> = { ...baseArticles, ...(posts as Record<string, ArticleEntry>) }
+
+export type ArticleListItem = { slug: string; title: string; excerpt: string; category: string; readTime: string; date: string }
+
+// All articles for one language, newest first. readTime is the number only ("8").
+export function getArticleList(locale: 'ar' | 'en'): ArticleListItem[] {
+  return Object.entries(articles)
+    .map(([slug, entry]) => {
+      const d = entry[locale]
+      return { slug, title: d.title, excerpt: d.excerpt, category: d.category, readTime: (d.readTime.match(/\d+/) ?? [''])[0], date: d.date }
+    })
+    .sort((a, b) => b.date.localeCompare(a.date))
 }
 
 export function extractH2Headings(content: string): string[] {

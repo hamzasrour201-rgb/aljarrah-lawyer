@@ -5,22 +5,9 @@ import { Link } from '@/i18n/navigation'
 import { useTranslations, useLocale } from 'next-intl'
 import { motion, useInView } from 'framer-motion'
 import PageHero from '@/components/shared/PageHero'
+import { getArticleList, type ArticleListItem } from '@/lib/articleContent'
 
-type Article = { slug: string; title: string; excerpt: string; category: string; readTime: string }
-
-const articleDates = [
-  '2026-01-10',
-  '2026-01-25',
-  '2026-02-08',
-  '2026-02-22',
-  '2026-03-05',
-  '2026-03-20',
-  '2026-04-02',
-  '2026-04-15',
-  '2026-04-22',
-  '2026-05-05',
-  '2026-05-15',
-]
+type Article = ArticleListItem
 
 function ArticleCard({ article, index, date }: { article: Article; index: number; date: string }) {
   const ref = useRef<HTMLDivElement>(null)
@@ -104,7 +91,7 @@ export default function BlogPageClient() {
   const locale = useLocale()
   const isAr = locale === 'ar'
   const font = { fontFamily: isAr ? 'var(--font-plex-arabic)' : 'var(--font-inter)' }
-  const articles = t.raw('articles') as Article[]
+  const articles = getArticleList(isAr ? 'ar' : 'en')
   const [activeCategory, setActiveCategory] = useState<string>('all')
 
   const categories = ['all', ...Array.from(new Set(articles.map((a) => a.category)))]
@@ -139,17 +126,9 @@ export default function BlogPageClient() {
 
           {/* Articles grid */}
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {filtered.map((article, i) => {
-              const originalIndex = articles.findIndex((a) => a.slug === article.slug)
-              return (
-                <ArticleCard
-                  key={article.slug}
-                  article={article}
-                  index={i}
-                  date={articleDates[originalIndex] ?? articleDates[0]}
-                />
-              )
-            })}
+            {filtered.map((article, i) => (
+              <ArticleCard key={article.slug} article={article} index={i} date={article.date} />
+            ))}
           </div>
         </div>
       </section>
