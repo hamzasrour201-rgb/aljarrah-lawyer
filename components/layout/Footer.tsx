@@ -277,6 +277,11 @@ export default function Footer() {
             <Link href="/terms" className="text-[var(--color-text-tertiary)] text-xs hover:text-[var(--color-gold-primary)] transition-colors" style={font}>
               {t('footer.terms')}
             </Link>
+            <span className="text-[var(--color-border-strong)]">·</span>
+            <span className="text-[var(--color-text-tertiary)] text-xs" style={font}>
+              {isAr ? 'تصميم وتطوير' : 'Designed & built by'}{' '}
+              <a href="https://www.hookmarketingjo.com" target="_blank" rel="noopener" className="underline hover:text-[var(--color-gold-primary)] transition-colors">Hook Marketing</a>
+            </span>
           </div>
         </div>
       </div>
